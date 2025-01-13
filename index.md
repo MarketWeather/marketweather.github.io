@@ -1,125 +1,125 @@
 
-### Last Update : 12:14 13/01/2025
+### Last Update : 13:16 13/01/2025
 
 Bitcoin Difficulty Hits All-Time High, Adjusts Positively for 8th Consecutive Time
 ----------------------------------------------------------------------------------
 
 10:58 13 Jan 2025
 
-The article discusses recent records set in the Bitcoin (BTC) ecosystem. The mining difficulty adjustment has reached an all-time high of 110.45 trillion, making it approximately 110.45 trillion times harder to mine a block than at the time of Bitcoin's genesis block. This is the eighth consecutive positive adjustment in difficulty, putting pressure on miners as they struggle to maintain their operations.
+The article discusses the latest development in the Bitcoin (BTC) mining ecosystem. Specifically:
 
-The article also notes that some publicly traded miners have pivoted into other industries, such as high-performance computing (HPC) and artificial intelligence (AI), due to the increasing difficulty and competition. Additionally, MARA Holdings has issued convertible bonds to buy bitcoin, and is optimizing revenue by lending out its bitcoin to earn a single-digit yield.
+* The mining difficulty has reached a new all-time high of 110.45 trillion, making it approximately 110.45 trillion times harder than when Bitcoin first launched.
+* This is the eighth consecutive positive adjustment in difficulty, which puts pressure on miners to continue mining and rewards them with Bitcoin.
+* Historically, such records have preceded major market tops or bottoms in the past (e.g., summer of 2021, bull market top at $69,000; 2018, bull market top at $20,000). However, there is no clear trend that emerges when there are many positive consecutive adjustments.
+* The article also highlights the increasing hashrate (the total processing power of the Bitcoin network) and notes that it is likely to reach 1 zettahash per second before the next halving event.
 
-The article also looks at historical patterns of consecutive positive adjustments in mining difficulty. In the past, such records have often preceded near-cycle tops or bottoms. However, no clear trend emerges from this data. The continued strength of the hashrate (7-day moving average) is noted, with predictions suggesting it could reach 1 zettahash per second before the next halving.
-
-Overall, the article suggests that the recent records in mining difficulty and hashrate are indicative of a strong and competitive Bitcoin ecosystem, but do not necessarily predict future price movements or cycle tops/bottoms.
+Overall, the article suggests that the recent surge in mining difficulty may be a sign of increased competition and pressure on miners, which could have implications for the market.
 
 Bitcoin Under Pressure as Goldman Trims Fed Rate Cut Expectations, BofA Sees Potential Hike After Blowout Jobs Report
 ---------------------------------------------------------------------------------------------------------------------
 
 09:57 13 Jan 2025
 
-The article discusses how Bitcoin's (BTC) value dropped by 1.6% on Monday, reaching below $93,000, due to reassessments from major investment banks about Federal Reserve (Fed) rate cuts after a strong jobs report on Friday. The report showed nonfarm payrolls increasing by 256,000 in December, exceeding expectations and causing some banks to push back their expected rate cut dates.
-
-Goldman Sachs now expects only two rate cuts in 2025, with the next one not until June, whereas previously they had predicted three rate cuts in March, June, and December. JPMorgan also still expects rate cuts, but Bank of America (BofA) fears an extended pause or even a rate hike.
-
-The article highlights that the strong jobs report may have completed the "pendulum swing" towards inflation, making it less likely for the Fed to cut rates in the near future. The U.S. 10-year Treasury note yield has surged by 100 basis points since the last rate cut, indicating rising interest rates and inflation expectations.
-
-Additionally, some economists are warning that base effects could accelerate core inflation next week's consumer price index report, which may further solidify a hawkish Fed narrative.
+The article discusses how Bitcoin's value dropped by 1.6% on Monday, reaching below $93,000, due to reassessments from major investment banks regarding Federal Reserve (Fed) rate cuts after a strong jobs report was released. The jobless rate decreased to 4.1%, and average hourly earnings came in slightly lower than expected, which led Goldman Sachs to push back the next interest rate cut to June from March. Other banks, such as JPMorgan and Bank of America, still expect rate cuts, but Bank of America fears an extended pause or even a rate hike due to the strong jobs report. The article also mentions that the U.S. 10-year Treasury note yield has surged by 100 basis points since the September rate cut, indicating that interest rates may be rising. Overall, the article suggests that the market is adjusting its expectations for Fed rate cuts and that Bitcoin's value may continue to fluctuate based on these changes.
 
 2025 Could be a Big Year for Crypto ETFs: Laser Digital
 -------------------------------------------------------
 
 08:51 13 Jan 2025
 
-According to a report from Laser Digital, a subsidiary of financial services giant Nomura, 2025 could be a big year for cryptocurrency exchange-traded funds (ETFs). Asset managers have submitted 12 filings to the Securities and Exchange Commission (SEC) to date, with potential products including a ProShares ETF that denominates the S&P 500's return in bitcoin, as well as ETFs based on litecoin, XRP, Solana, and others. A bitcoin/ether ETF is likely to be approved first. The report notes that the launch of spot bitcoin ETFs in the US last year was a success, with BlackRock's iShares Bitcoin Trust amassing $53 billion in assets under management in its first 11 months. With the appointment of crypto-friendly regulators and the potential for institutional investors to adopt ETFs, the market is expected to continue growing and seeing wider adoption in 2025.
+According to a report by Laser Digital, a subsidiary of Nomura, 2025 could be a significant year for cryptocurrency exchange-traded funds (ETFs) in the US. As many as 12 crypto ETFs may be launched this year if approved by the Securities and Exchange Commission (SEC). Asset managers have already submitted 12 filings to the SEC, which includes potential products such as a bitcoin/ether ETF, litecoin, XRP, and Solana-based ETFs. The report suggests that a bitcoin/ether ETF is likely to be approved first. This comes after the success of spot bitcoin ETFs in the US last year, with BlackRock's iShares Bitcoin Trust (IBIT) amassing $53 billion in assets under management. The report also notes that the appointment of crypto-friendly regulators at the SEC and the expected wider adoption by institutional investors could further boost the growth of the ETF market.
 
 Singapore Blocks Polymarket, Following Taiwan and France
 --------------------------------------------------------
 
 08:16 13 Jan 2025
 
-The Singapore Gambling Regulatory Authority (GRA) has ordered local internet service providers to block access to the prediction market platform, Polymarket, citing that it is an "unlicensed gambling site". The GRA warned that individuals found guilty of using unlicensed gambling services could face a fine up to SGD 10,000 or a jail sentence up to 6 months. This is not the first time Polymarket has faced legal issues - Taiwan blocked access to its nationals and arrested 17 people for betting on its presidential election, while France's gaming authorities also blocked users from accessing the platform. Additionally, the US Commodity Futures Trading Commission subpoenaed Coinbase to gather information about US nationals trading on Polymarket as part of an ongoing investigation.
+The Singaporean Gambling Regulatory Authority (GRA) has ordered local internet service providers to block access to Polymarket, a prediction market platform, citing it as an "unlicensed gambling site". The announcement warns that those found guilty of using the platform can face fines up to SGD 10,000 or imprisonment for up to 6 months. This is not the first time Polymarket has faced legal action; Taiwan had already blocked access to its citizens and arrested 17 people for betting on a recent presidential election. Additionally, gaming authorities in France have also taken action against the platform. Moreover, the US Commodity Futures Trading Commission has subpoenaed Coinbase as part of an ongoing investigation into US nationals trading on Polymarket.
 
 Altcoin Market Could Heat Up This Week With $3B Token Unlock Schedule, ONDO Leads the Charge
 --------------------------------------------------------------------------------------------
 
 07:02 13 Jan 2025
 
-The article discusses the upcoming token unlock schedule for alternative cryptocurrencies (altcoins), which is expected to release billions of dollars worth of supply, including Ondo Finance's ONDO token. Specifically, ONDO will unlock 1.94 billion tokens on January 18, worth approximately $2.23 billion, which is equivalent to over 130% of the token's circulating supply. This large unlock is likely to inject volatility into the market, as it exceeds the daily trading volume of ONDO, which has been ranging between $250 million and $300 million. The article notes that tokens facing unlocks equivalent to 100% of their average daily volume tend to experience volatility leading up to and following the event. As a result, investors may want to exercise caution when dealing with altcoins this week.
+The market for alternative cryptocurrencies (altcoins) is expected to experience increased volatility this week due to the impending token unlock schedule. Specifically, Ondo Finance's ONDO token will release a massive amount of supply worth $2.23 billion, which is equivalent to over 130% of its circulating supply. This is the largest unlock since November and several times bigger than its daily trading volume. The gradual release of tokens aims to prevent rapid price swings and market instability. However, research suggests that unlocks equivalent to 100% of the average daily volume can lead to volatility in the days leading up to and following the event. As a result, ONDO's prices have been declining since reaching record highs in December, with a current price of $1.14, representing a 5% loss for the day and a nearly 15% month-to-date decline.
 
 Trump's Treasury Pick to Divest Bitcoin ETF Holdings to Eliminate Conflict of Interest: Report
 ----------------------------------------------------------------------------------------------
 
 05:16 13 Jan 2025
 
-Billionaire hedge fund manager Scott Bessent, nominated by President-elect Donald Trump to be Treasury Secretary, plans to sell off several assets to avoid potential conflicts of interest. According to his ethics agreement and financial disclosures, Bessent has over $700 million in assets, including a $250,000 to $500,000 investment in bitcoin exchange-traded funds (ETFs). Other investments that could pose a conflict include a margin loan with Goldman Sachs, an account for trading China's currency, and a stake in conservative publisher All Seasons. If confirmed, Bessent would face the challenge of managing the federal debt amid Trump's plans to extend tax cuts and eliminate taxes on social security benefits.
+Here's a summary of the article:
+
+Scott Bessent, President-elect Donald Trump's nominee for Treasury Secretary, plans to divest some of his assets, including an investment in Bitcoin ETFs worth $250,000 to $500,000, due to potential conflicts of interest with his new role. As part of the confirmation process, Bessent filed an ethics agreement and financial disclosures revealing assets worth over $700 million, including a margin loan with Goldman Sachs and stakes in a conservative publisher. If confirmed, Bessent would need to manage the federal debt while implementing Trump's tax plans, which could include extending expiring tax cuts and eliminating taxes on social security benefits.
 
 Red-Hot DeFi Platform Usual Faces Backlash as Protocol Update Triggers Sell-Off
 -------------------------------------------------------------------------------
 
 22:26 10 Jan 2025
 
-Here's a summary of the article:
+The article discusses the decentralized finance (DeFi) protocol Usual Protocol and its recent issues with its yield-generating token, USD0++. The protocol had seen a significant rise in popularity, with its total value locked (TVL) reaching $1.87 billion earlier this week. However, on Friday, the protocol's team introduced a change to the redemption mechanism of USD0++ tokens without warning, causing a sell-off and panic among investors.
 
-The decentralized finance (DeFi) protocol Usual Protocol faced backlash from its community after introducing a new feature that allowed investors to redeem their locked-up tokens early. This change, known as "dual-path exit," triggered a sell-off on secondary markets, causing the value of USD0++, a token representing a locked-up version of the stablecoin USD0, to fall below 90 cents. The protocol's governance token, USUAL, also plummeted by up to 17%. The issue arose because some investors had staked their funds without being able to redeem them in exchange for rewards, and the new feature allowed early redemption at a lower price.
+The change, known as "dual-path exit," allows investors to redeem their locked-up tokens early at a 0.87 USD0 floor price or at par by giving up some of the rewards earned. This led to criticism from DeFi users who felt that the protocol had changed its design without warning, calling into question the 1:1 exchange rate.
 
-The community was caught off guard by the change, which some saw as unfairly allowing yield farmers to benefit from the protocol's design while locking out other investors. The controversy highlights the potential risks of DeFi products that offer high-yields via token incentives and rewards flywheels.
+The article quotes several prominent figures in the DeFi community expressing concerns about the sudden change and the potential risks it poses to investors. The Usual Protocol team has apologized for any confusion caused and stated that the change was communicated in advance from October. However, the episode is seen as a lesson for crypto investors about the potential risks of DeFi products that entice users with high-yields via token incentives and rewards flywheels.
 
-In response to criticism, the Usual Protocol team issued a statement acknowledging that communication could have been better and apologizing for any misunderstandings. The episode serves as a lesson for crypto investors about the importance of understanding the exact rules of DeFi protocols and trusting that they won't change without warning, lest it result in market panic.
-
-As a result of the controversy, USD0++ traded at 0.91 USD0 on Curve, and the protocol's total value locked (TVL) dropped below $1.6 billion.
+As a result of the sell-off, USD0++ traded briefly below 90 cents and the protocol's governance token, USUAL, plummeted by up to 17%. The protocol's TVL also dropped to below $1.6 billion. Despite the setbacks, the article notes that USD0++ is still trading at around 0.91 USD0 in the Curve pool.
 
 U.S. Enforcement Chief Behind CFTC Crypto Cases Exits Before Trump Arrives
 --------------------------------------------------------------------------
 
 21:41 10 Jan 2025
 
-Ian McGinley, Enforcement Director at the Commodity Futures Trading Commission (CFTC), is leaving his position after a relatively short tenure. During his time at the agency, he oversaw several high-profile cases involving cryptocurrencies, including lawsuits against Binance and FTX, as well as enforcement actions against KuCoin and Falcon Labs. McGinley's priority was establishing the CFTC as a premier law enforcement agency for digital asset enforcement. His departure may pave the way for Republicans to redirect the agency's enforcement work when a new chairperson takes over, possibly from a list of potential candidates including sitting Republican commissioners Caroline Pham and Summer Mersinger, or former Commissioner Brian Quintenz. The CFTC's focus on crypto enforcement may become even more prominent if crypto legislation advances in 2025, potentially surpassing the Securities and Exchange Commission (SEC) as the dominant agency overseeing U.S. digital assets markets.
+Enforcement Director Ian McGinley is leaving the Commodity Futures Trading Commission (CFTC) after a relatively short tenure. He arrived in February 2023 and oversaw high-profile cases against Binance, FTX, KuCoin, and Falcon Labs, among others. During his time at the agency, he emphasized the CFTC's focus on digital assets, stating that it had "risen to the challenge" of enforcing laws related to cryptocurrencies.
+
+McGinley's departure opens the door for Republicans to take over the agency's enforcement work when a Trump appointee takes over as chairman. Sitting Republican commissioners Caroline Pham and Summer Mersinger are potential candidates for the chairmanship, along with former Commissioner Brian Quintenz, who currently heads policy at a16z crypto.
+
+McGinley's priorities during his tenure included establishing the CFTC as a premier law enforcement agency for digital assets. His departure comes as the CFTC continues to play a key role in regulating the US digital assets markets, and could potentially overtake the Securities and Exchange Commission (SEC) if crypto legislation makes headway in 2025.
 
 Biden's Consumer Watchdog Pushes for Last-Minute Stablecoin Rule
 ----------------------------------------------------------------
 
 21:22 10 Jan 2025
 
-The US Consumer Financial Protection Bureau (CFPB) has proposed new regulations that would impact stablecoin issuers and wallet providers. The proposal aims to apply the Electronic Fund Transfer Act (EFTA) to virtual wallets and stablecoins, which are digital tokens tied to a steady asset like the US dollar. This would require stablecoin firms and crypto wallet providers to comply with consumer protection regulations, including disclosures and protections against unauthorized transactions.
+The US Consumer Financial Protection Bureau (CFPB) has proposed new regulations that could significantly impact stablecoin issuers and wallet providers. The proposal aims to apply the Electronic Fund Transfer Act to virtual wallets and stablecoins, which are digital tokens tied to a steady asset, such as the US dollar. This would require institutions providing these accounts to make consumer disclosures, provide protections against unauthorized transactions, and allow users to cancel improper transfers.
 
-The CFPB's proposal suggests that stablecoins and other fungible assets should be considered as payment mechanisms under EFTA, potentially including more volatile cryptocurrencies like bitcoin. The regulation would also apply to virtual currency wallets used for retail transactions, requiring institutions to provide consumer disclosures and protections.
+The CFPB's proposal defines "funds" to include stablecoins and other fungible assets that can be used for payments or transactions. This could also apply to more volatile cryptocurrencies like bitcoin. The agency suggests that virtual currency wallets should be treated as financial accounts, subjecting them to regulatory requirements.
 
-However, the future of this proposal is uncertain due to the upcoming transition in government. Trump's appointment power allows him to replace the CFPB director with someone who may not support these regulations. Additionally, Congress could use its Congressional Review Act authority to erase the regulation if it becomes final.
+While the proposal has been met with some support from consumer advocacy groups, it has also received criticism from crypto enthusiasts and policy analysts who argue that the regulations are overly broad and could stifle innovation in the decentralized finance (DeFi) space. The future of this proposal is uncertain, as it must survive the arrival of a Trump-appointed CFPB chief and potentially be repealed by Congress.
 
-The proposal has sparked debate among experts and advocacy groups. Consumer group Better Markets supports the regulation, citing its potential to protect consumers and level the playing field for digital payment mechanisms. Meanwhile, the Cato Institute's Jack Solowey argues that the CFPB's arguments are "embarrassingly conclusory" and ignore decentralized ledgers and self-hosted wallets. Consensys' Bill Hughes also criticized the proposal, calling it an example of "law by decree" problems.
+Key points:
 
-Overall, the proposed regulation could have significant implications for the crypto industry, particularly if it becomes final and survives any potential changes in government or Congressional action.
+* The CFPB has proposed regulating stablecoins and virtual wallets under the Electronic Fund Transfer Act.
+* The proposal defines "funds" to include stablecoins and other fungible assets that can be used for payments or transactions.
+* Virtual currency wallets would be treated as financial accounts, subjecting them to regulatory requirements.
+* The proposal's future is uncertain due to the upcoming arrival of a Trump-appointed CFPB chief and potential Congressional repeal.
 
 Kenya Prepares to Legalize Cryptocurrencies in Policy Shift: Report
 -------------------------------------------------------------------
 
 17:53 10 Jan 2025
 
-Kenya is set to introduce legislation to legalize cryptocurrencies, a shift from its previous warnings against the industry. The country's Treasury Cabinet Secretary, John Mbadi, stated that a regulatory framework is needed to capitalize on the benefits of virtual assets and service providers while mitigating risks such as money laundering, terrorism financing, and fraud. Kenya launched a draft policy on virtual assets in December, aiming to establish a fair and competitive market for cryptocurrency industry players and foster innovation and financial literacy. This marks a change from the country's previous stance, which saw its central bank warn against cryptocurrency use in 2015. The move comes as the industry has grown in popularity in Kenya, with around 8.5% of Kenyans owning cryptocurrencies, according to a United Nations report.
+Kenya is shifting its stance on cryptocurrency, with the Treasury Cabinet Secretary John Mbadi announcing plans to legalize and regulate the industry. This marks a change from previous warnings against the use of cryptocurrencies. The government aims to create a regulatory framework that will allow for the benefits of the industry while mitigating risks such as money laundering, terrorism financing, and fraud. A draft policy on virtual assets and service providers was launched in December, with the goal of establishing a fair and competitive market for cryptocurrency players and fostering innovation and financial literacy. This change in stance comes after years of caution, with Kenya's central bank issuing warnings against cryptocurrency use in 2015. The country has seen significant growth in the industry, with a United Nations report showing that around 8.5% of Kenyans own cryptocurrencies.
 
 3 Russians Face Money Laundering Charges Over Mixing Services: DOJ
 ------------------------------------------------------------------
 
 17:25 10 Jan 2025
 
-Three Russian nationals have been charged with money laundering by a federal grand jury in Georgia for operating sanctioned crypto mixing services Blender.io and Sinbad.io. Roman Vitalyevich Ostapenko and Alexander Evgenievich Oleynik were arrested last month, while Anton Vyachlavovich Tarasov is still at-large. The defendants allegedly operated cryptocurrency mixers that helped launder funds from cybercrimes, including ransomware attacks and wire fraud. Blender.io was previously sanctioned by the US Treasury Department for aiding North Korean hackers in concealing their stolen crypto proceeds. Authorities have seized computer equipment behind the services, which aim to anonymize transactions and erase digital asset trails. The case highlights the controversy surrounding crypto mixing services, with some arguing they promote financial privacy while others view them as enablers of criminal activity.
+Here's a summary of the article:
+
+Three Russian nationals, Roman Vitalyevich Ostapenko and Alexander Evgenievich Oleynik, have been charged with money laundering by a federal grand jury in Georgia. The charges relate to their alleged operation of two crypto mixing services, Blender.io and Sinbad.io, which were used to anonymize transactions and conceal the source of digital assets. The third individual, Anton Vyachlavovich Tarasov, is at-large. Authorities had previously seized and dismantled the computer equipment behind the services, and Blender.io was sanctioned by the US Treasury Department for aiding in the concealment of cryptocurrency proceeds from North Korean hackers. The indictment alleges that the defendants operated these mixers to facilitate the laundering of criminally derived funds, including those from ransomware and wire fraud schemes. This prosecution is part of a larger effort to target crypto mixing services, which have been controversial due to their vulnerability to criminal use and their championing of financial privacy.
 
 Babylon Labs Brings New Momentum to Bitcoin ZK Tech Through Bridge to Cosmos Chains
 -----------------------------------------------------------------------------------
 
 16:46 10 Jan 2025
 
-Babylon Labs, a developer of the largest BTC staking protocol, is collaborating with Cosmos to create a trust-minimized bridge between the Bitcoin and Cosmos networks. This bridge will enable the transfer of BTC assets to other blockchains without compromising security or speed. The project uses BitVM2, a computing paradigm that allows for Ethereum-style smart contracts on Bitcoin, paving the way for zero-knowledge technology.
+Babylon Labs, a developer of the largest BTC staking protocol, is collaborating with Fiamma and the Cosmos network to create a trust-minimized Bitcoin bridge. This bridge will enhance Bitcoin's interoperability by allowing transactions between different blockchains. The project utilizes BitVM2, a computing paradigm that enables Ethereum-style smart contracts on Bitcoin, paving the way for zero-knowledge technology. Zero-knowledge computations allow parties to verify information without revealing what it is.
 
-Zero-knowledge computations allow different parties to verify information accuracy without revealing the actual information. This technology is essential for bridging digital assets between different blockchains.
+The goal of this initiative is to unlock the value stored in BTC and enable its use as collateral for other ecosystems and blockchains. This movement aims to extract greater utility from Bitcoin, similar to how Ethereum's network works. Babylon Labs' staking protocol has a total value locked (TVL) of around $5.5 billion.
 
-The goal of this collaboration is to unlock the value stored in BTC and allow it to be used on other blockchains that are faster and more scalable than Bitcoin. Babylon's BTC staking protocol has a total value locked (TVL) of around $5.5 billion, making it one of the largest projects in the sector.
-
-The introduction of BitVM2's predecessor in October 2023 was hailed as a breakthrough for making Bitcoin more programmable, enabling faster and cheaper transactions without compromising security. This could lead to bridges that securely transfer BTC assets between blockchains and allow deposits to be withdrawn.
-
-Another project, Citrea, which is backed by Galaxy Digital, has already deployed a BitVM-based bridge to the Bitcoin testnet. The bridge is designed to be compatible with the Ethereum Virtual Machine (EVM), which powers the Ethereum protocol.
+The introduction of BitVM2's predecessor was hailed as a breakthrough in making Bitcoin more programmable, enabling faster and cheaper transactions without compromising security. This will allow bridges to securely transfer BTC between networks and bring it back for withdrawals.
 
 Bybit to Temporarily Halt Crypto Trading in India, Citing Regulations
 ---------------------------------------------------------------------
@@ -128,59 +128,56 @@ Bybit to Temporarily Halt Crypto Trading in India, Citing Regulations
 
 Here is a summary of the article:
 
-Crypto exchange Bybit has announced it will temporarily suspend its services in India, effective Sunday, due to regulatory requirements. The company will not allow new trades or access to products on the platform, but withdrawals will still be available. Bybit aims to finalize its registration as a Virtual Digital Asset Service Provider under Indian law, which is expected to happen within weeks. This move comes after India mandated that crypto companies must register with the Financial Intelligence Unit (FIU) and comply with anti-money laundering measures.
+Crypto exchange Bybit has announced that it will temporarily suspend its services in India due to regulatory requirements. Starting Sunday, Indian users will no longer be able to open new trades or access products on the platform, except for withdrawals. The suspension is intended to prevent any issues with compliance with Indian laws and regulations. However, Bybit hopes to complete the registration process as a Virtual Digital Asset Service Provider (VDS) under Indian law in the coming weeks, after which it plans to resume full services.
 
 U.S. Added 256K Jobs in December, Blowing Past 160K Estimate
 ------------------------------------------------------------
 
 13:39 10 Jan 2025
 
-The article reports that the US job market showed significant growth in December, exceeding economists' forecasts. The Bureau of Labor Statistics (BLS) reported a gain of 256,000 jobs, beating estimates of 160,000 and up from November's revised total of 212,000. Additionally, the unemployment rate unexpectedly fell to 4.1% in December, down from an expected 4.2% and November's rate of 4.2%.
+The US job market experienced a strong growth in December, with the addition of 256,000 jobs, exceeding economists' forecasts. The unemployment rate also unexpectedly fell to 4.1%, down from 4.2% in November. This positive news triggered a reaction in financial markets, with:
 
-The strong job market report had a significant impact on financial markets. Bitcoin, which had been rising earlier in the week, dropped over 2% to around $92,800 after the news. Other cryptocurrency prices also fell sharply. Traditional stock market indices also declined, with futures down about 1%. The bond market reacted strongly, with the 10-year Treasury yield jumping nine basis points higher to 4.78%, while the dollar index surged 0.6%.
+* Bitcoin and other cryptocurrencies experiencing losses, with bitcoin dropping over 2% to $92,800.
+* US stock index futures falling around 1%.
+* The 10-year Treasury yield rising 9 basis points to 4.78%.
+* The dollar index surging 0.6%.
+* Gold prices moving modestly lower to just below $2,700 per ounce.
 
-The report's impact on interest rate expectations was significant, with traders scaling back bets on further Federal Reserve rate cuts in 2025. The odds of a March rate cut fell to 28% from 41% before the report, and the odds of a May rate cut declined to 34% from 44%. Average hourly earnings also rose 0.3% in December, with a year-over-year increase of 3.9%, beating forecasts.
+The strong jobs report led traders to scale back bets on further Federal Reserve rate cuts in 2025, with the odds of a March move declining from 41% to 28%, and May rate cut odds falling from 44% to 34%. Additionally, average hourly earnings rose 0.3% in December, with a year-over-year increase of 3.9%.
 
 XRP, XLM and DOGE See Recovery in Stateside Demand
 --------------------------------------------------
 
 13:32 10 Jan 2025
 
-The article reports on a recent positive trend in the crypto market, specifically for alternative cryptocurrencies XRP, DOGE, and XLM. Prices for these tokens have stabilized and are now priced similarly on both Coinbase (a US-based exchange) and Binance (a global exchange). This suggests that state-side investors are again participating in the market, as measured by the "Coinbase premium" indicator. This metric tracks the difference between prices on Coinbase and Binance, with a positive value indicating a premium for Coinbase prices. The article notes that this indicator surged in early December when Bitcoin's price reached new highs, but then turned negative (a discount) as the market became more cautious due to hawkish Federal Reserve expectations.
+The article discusses a recent positive trend in the cryptocurrency market, specifically with regards to XRP, DOGE, and XLM. Prices for these tokens have increased on both Coinbase (a US-based exchange) and Binance (an offshore exchange), indicating renewed participation from stateside investors. The "Coinbase premium" metric, which measures the difference between prices on Coinbase and Binance, has surged for these tokens in early December following Bitcoin's price surge to lifetime highs. However, when Bitcoin's uptrend slowed down due to hawkish Fed expectations, the premium quickly turned into a discount.
 
 'Razzlekhan' Drops Video As Rapper Prepares for Prison in Bitfinex Hack
 -----------------------------------------------------------------------
 
 12:00 10 Jan 2025
 
-Heather Morgan, aka Razzlekhan, a crypto industry personality, has released a new music video despite facing imminent imprisonment for criminally laundering cryptocurrency stolen from Bitfinex by her husband, Ilya Lichtenstein. The song, "Razzlekhan vs. The United States," features Morgan's provocative persona and does not directly address the investigation or court proceedings that led to her 18-month prison sentence. Instead, it raps about themes of capitalism, power, and social commentary. Morgan claims the video is meant as a tongue-in-cheek commentary and has inspired creatives and misfits who feel less alone in their struggles. The release comes after Morgan was sentenced for her role in concealing and cashing out parts of the stolen fortune, which would now be worth $11 billion.
+Heather Morgan, also known as Razzlekhan, has released a new music video despite facing imprisonment for her role in laundering stolen cryptocurrency from Bitfinex. Her husband, Ilya Lichtenstein, was convicted of orchestrating the hack and theft, with Morgan receiving an 18-month sentence. The song, "Razzlekhan vs. The United States", is a tongue-in-cheek commentary that does not directly attack the investigation or court proceedings. Instead, it critiques societal issues and features Morgan bound in red ropes. Morgan has stated that her Razzlekhan performances are meant to be inspiring for creatives and misfits who feel alone. Despite being sentenced, Morgan's prison sentence was delayed until the end of January, and she will have restricted computer use.
 
 Bitcoin Registers 14 Green Hourly Candles, Longest Streak Since 2017
 --------------------------------------------------------------------
 
 11:30 10 Jan 2025
 
-The article discusses the unusual price action of Bitcoin during European hours on Friday. The BTCUSD pair on Coinbase showed a streak of 14 consecutive green hourly candles, indicating gains in each hour, with the price increasing from $91,771 to $95,283. This trend started on January 9 at 21:00 UTC and continued until January 10 at 10:00 UTC. According to Vetle Lunde, Senior analyst at K33 Research, this is currently the longest hourly green candle streak since at least January 1, 2017, with similar patterns observed in recent times (11-hour streaks on January 14, 2023; February 26, 2024; and November 12, 2024). However, the 15th hourly candle is currently red, which may end this trend.
+The article discusses an unusual price action in the Bitcoin market, where the BTCUSD pair on Coinbase has seen a streak of 14 consecutive green hourly candles, indicating gains each hour. This trend started on January 9th and continued until January 10th, with the price rising from $91,771 to $95,283. The senior analyst at K33 Research, Vetle Lunde, notes that this is the longest hourly green candle streak since at least January 1st, 2017. While not unprecedented, this rare event has left traders perplexed.
 
 Sentiment Readings Favor Dogecoin Gains as Cardano’s ADA Leads Market Bump
 --------------------------------------------------------------------------
 
 10:47 10 Jan 2025
 
-The article discusses the current state of various cryptocurrencies, particularly Dogecoin (DOGE), which has been experiencing a decline in market capitalization (-28%) over the past month. However, analytics firm Santiment suggests that DOGE's crowd sentiment is now at its lowest point over the past year, making it an attractive contrarian play if crypto markets trend upward again.
+The article suggests that after a weakness in Bitcoin (BTC), other cryptocurrencies such as Solana's SOL, Dogecoin (DOGE), and potentially others may see an increase in value. Specifically, Dogecoin has been quiet recently but its market capitalization has dropped 28% since its peak one month ago, making it ripe for contrarian investors to buy in. The article cites Santiment analytics firm, which notes that crowd sentiment on DOGE is at a low point of 1 out of 5, indicating potential upside.
 
-Additionally, large investors ("whales") are showing increased interest in DOGE, with transactions over $100,000 spiking, hinting at potential price bumps. Futures markets for DOGE have set a new record for open interest, although they have since tapered off along with the market-wide decline.
+Large investors, or "whales," are showing increased interest in DOGE, with transactions over $100,000 spiking, suggesting potential price bumps in the short term. The article also mentions that January has been Dogecoin's best-performing month historically, averaging an 85% return.
 
-The article also touches on other major cryptocurrencies, including:
+The sentiment for other major cryptocurrencies is mixed: Bitcoin is neutral after a dip and recovery, Ether sees bearish sentiment despite holding above $3,000, XRP is bullish after an 18% rise in the past week, Binance Coin shows neutral sentiment post-drop below $700. Solana remains semi-bullish despite underperformance.
 
-* Bitcoin (BTC): neutral after a dip and recovery
-* Ether (ETH): bearish sentiment despite prices holding above $3,000
-* XRP: bullish after an 18% rise in the past week
-* Solana (SOL): semi-bullish despite underperformance, with a loyal community buying dips
-
-The CoinDesk 20 (CD20) index rose 1.04%, led by Solana's SOL and other altcoins like Binance Coin ($BNB), ether (ETH), and Cardano's ADA.
-
-Lastly, the article highlights some lesser-known tokens, including AI Agent tokens Bixby, Cookie DAO's COOKIE, and ChainGPT, which have seen significant gains, up to 50% on average.
+The article also mentions that Cardano's ADA led a market-wide recovery on Friday with a 5.5% move, and the broad-based CoinDesk 20 (CD20) rose 1.04%. Other AI Agent tokens, such as Bixby, Cookie DAO's COOKIE, and ChainGPT, have seen significant gains, up to 50%, on Binance spot listings.
 
 EU's MiCA Rules Will Likely Boost Euro Denominated Stablecoins, JPMorgan Says
 -----------------------------------------------------------------------------
@@ -189,16 +186,5 @@ EU's MiCA Rules Will Likely Boost Euro Denominated Stablecoins, JPMorgan Says
 
 Here's a summary of the article:
 
-The EU's new MiCA regulations, which took effect on December 30, are expected to boost euro-denominated stablecoins, according to a JPMorgan research report. The regulations require stablecoin issuers like Tether to maintain significant reserves in European banks and secure licenses for trading. As a result, Tether has discontinued its EURT stablecoin and delisted USDT from several EU-based exchanges. On the other hand, compliant stablecoins like Circle's EURC have gained strength. Despite these challenges, Tether remains a dominant force in the global stablecoin market, particularly in Asian markets where regulations are less stringent. The company is committed to maintaining a presence in the EU by investing in MiCA-compliant stablecoin issuers like Quantoz Payments and StablR.
-
-Bitcoin Data Indicates Ripe Buying Period as BTC Nears $95K
------------------------------------------------------------
-
-10:29 10 Jan 2025
-
-The article discusses the current state of the Bitcoin market and whether it's a good time to buy. Despite a recent correction, data suggests that buying at current prices could benefit investors looking to enter the market. The Spent Output Profit Ratio (SOPR) has risen to 0.987, indicating that short-term investors are selling at a loss, which historically precedes price recoveries. Other indicators, such as Market Value to Realized Value and Puell Multiple, also suggest that the market has not yet reached its peak.
-
-The article notes that Bitcoin's price has been affected by fresh economic data, including strong US service provider numbers and rising treasury yields. This has led to a drop in risk assets like Bitcoin, but some analysts believe that this could be a buying opportunity. As short-term investors experience more pain, smart investors may accumulate coins sold cheaply, making it unwise to sell at current prices.
-
-Overall, the data suggests that the market has not yet reached its peak and that buying at current prices could benefit those looking for an entry into the Bitcoin markets.
+The EU's new MiCA regulations, which came into effect on Dec. 30, are expected to benefit euro-denominated stablecoins that comply with the rules. As a result, compliant stablecoins like Circle's EURC have gained strength, while non-compliant ones like Tether's EURT face challenges. Under MiCA, stablecoin issuers must maintain significant reserves in European banks and secure licenses for trading. In response, Tether has discontinued its EURT stablecoin and delisted USDT from several EU-based exchanges. Despite these challenges, Tether remains a dominant force globally and is widely used in Asian markets where regulations are less strict. The company has also invested in MiCA-compliant stablecoin issuers like Quantoz Payments and StablR to maintain a presence in the EU.
 
