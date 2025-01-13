@@ -1,30 +1,26 @@
 
-### Last Update : 20:41 13/01/2025
+### Last Update : 21:42 13/01/2025
 
 U.S. Banking Should Ease Path for Crypto, Republican Taking Reins at FDIC Suggests
 ----------------------------------------------------------------------------------
 
 18:06 13 Jan 2025
 
-Here is a summary of the article:
-
-The Federal Deposit Insurance Corporation (FDIC) is set to get new management, with current Vice Chairman Travis Hill expected to take over as interim chairman after Martin Gruenberg steps down on January 19. In remarks made before his potential takeover, Hill expressed concerns about the FDIC's approach to cryptocurrency regulation, calling for a more transparent and clearly outlined guidance for banks interested in digital assets. He criticized the agency's piecemeal approach, which has led to many banks being discouraged from pursuing crypto-related business lines. Hill also condemned the FDIC's role in pressuring banks to cut ties with crypto clients, stating that efforts to "debank" law-abiding customers are unacceptable.
+The Federal Deposit Insurance Corporation (FDIC) is set to have new management, with Vice Chairman Travis Hill expected to take over as temporary or permanent chairman. Before taking the reins, Hill expressed his thoughts on pro-crypto policies, calling for the agency to issue new guidance for digital assets and move away from its current piecemeal approach. He criticized the FDIC's role in pressuring banks to shed crypto clients, saying it is unacceptable and goes against the goal of decreasing the number of unbanked individuals. Hill also emphasized the need for clear and transparent regulations that allow for innovation and timely approvals. The FDIC's longtime Chairman Martin Gruenberg will step down on January 19, with Hill taking over as interim chairman until a permanent replacement is named.
 
 Jamie Dimon Still Sees ‘No Value’ in Bitcoin
 --------------------------------------------
 
 17:47 13 Jan 2025
 
-JPMorgan Chase CEO Jamie Dimon reiterated his negative view on Bitcoin, stating that it has "no intrinsic value" and is heavily used by criminals such as sex traffickers and money launderers. This is consistent with his previous opposition to Bitcoin, unlike BlackRock CEO Larry Fink who had a change of heart. Despite JPMorgan's profiting from Bitcoin's growing use as a financial product, Dimon remains skeptical. However, the bank has been investing in blockchain technology and rebranding its platform to focus on tokenizing real-world assets. This move aims to improve the current financial infrastructure, although it's unclear how this will be impacted by the expected friendlier regulatory environment for Bitcoin and crypto under the new U.S. presidency led by Donald Trump.
+JPMorgan Chase CEO Jamie Dimon reiterated his negative views on Bitcoin (BTC), stating that it has "no intrinsic value" and is heavily used by sex traffickers, money launderers, and ransomware operators. This stance is consistent with his previous opposition to Bitcoin, unlike BlackRock CEO Larry Fink who had a change of heart. Despite this, JPMorgan Chase has profited from Bitcoin's growth as a financial product and has even partnered with BlackRock on a spot bitcoin ETF. The bank has also rebranded its blockchain platform to Kinexys, aiming to reduce limitations in the current financial infrastructure through real-world tokenization. Dimon's comments come just days before Donald Trump's expected return to the US presidency, which is likely to bring a friendlier regulatory environment for Bitcoin and cryptocurrencies.
 
 Global Investment Giant Capital Group Reaches 5% Stake in Bitcoin Holder Metaplanet
 -----------------------------------------------------------------------------------
 
 15:57 13 Jan 2025
 
-Here's a summary of the article:
-
-Capital Group, a large investment company with over $2.3 trillion in assets under management, has become one of the biggest shareholders of Metaplanet, a Japanese hotel industry investor that has gained attention for its bitcoin treasury strategy. Metaplanet holds 1,762 BTC and has seen its share price increase by over 1,700% since adopting the strategy in April 2024. Capital Group also owns a significant stake in MicroStrategy, a Bitcoin development company founded by Michael Saylor, with an 8% stake in the company.
+Capital Group, one of the largest investment companies in the world with over $2.3 trillion in assets under management, has become a significant shareholder in Metaplanet, a Japanese hotel industry investor that has gained attention for its bitcoin treasury strategy. Capital Group now holds a substantial stake in Metaplanet, which has seen its share price increase by over 1,700% since adopting the strategy in April 2024. Additionally, Capital Group is also the second-largest shareholder of MicroStrategy, a Bitcoin development company, with an ownership stake of over 8%.
 
 MicroStrategy Added 2,530 Bitcoin for $243M, Bringing Holdings to 450K BTC
 --------------------------------------------------------------------------
@@ -33,62 +29,52 @@ MicroStrategy Added 2,530 Bitcoin for $243M, Bringing Holdings to 450K BTC
 
 Here's a summary of the article:
 
-MicroStrategy, led by CEO Michael Saylor, has continued its streak of buying Bitcoin (BTC) for the tenth consecutive week. In the latest week ending January 12, MicroStrategy purchased 2,530 BTC for $243 million, bringing their total holdings to 450,000 BTC. The company's average purchase price is now $62,691.
-
-Saylor teased the announcement on Twitter on Sunday. However, shares of MicroStrategy fell nearly 5% in premarket trading, along with a similar dip in Bitcoin prices, which are currently hovering around $90,000.
-
-Semler Scientific (SMLR), another company, also announced that it has acquired an additional 237 BTC for $23.3 million at an average price of $98,267. SMLR now holds 2,321 BTC worth $191.9 million, with an average purchase price of $82,867. Shares of Semler Scientific dropped almost 7% in premarket trading.
+MicroStrategy, a company led by CEO Michael Saylor, has increased its bitcoin holdings for the tenth consecutive week. In the latest purchase, MicroStrategy bought 2,530 BTC (worth $243 million) at an average price of $95,972. This brings their total bitcoin holdings to 450,000 BTC, with an overall average purchase price of $62,691. Saylor also made a presentation at the ICR Conference, where he recommended investing in bitcoin instead of bonds, citing the significant increase in bitcoin's value since 2020. He referred to bonds as "toxic". The news caused MicroStrategy's shares to drop by nearly 5% and bitcoin's price to fall just above $90,000. Additionally, Semler Scientific, a separate company, acquired an additional 237 BTC at an average price of $98,267, bringing their total holdings to 2,321 BTC.
 
 Bitcoin Difficulty Hits All-Time High, Adjusts Positively for 8th Consecutive Time
 ----------------------------------------------------------------------------------
 
 10:58 13 Jan 2025
 
-The article discusses recent records set in the Bitcoin (BTC) ecosystem. The mining difficulty adjustment has reached an all-time high of 110.45 trillion, making it approximately 110.45 trillion times harder than when Bitcoin was first launched. This is the eighth consecutive positive adjustment in difficulty, which puts pressure on miners as they compete to mine a block and receive bitcoin rewards.
+The article discusses the recent surge in mining difficulty in the Bitcoin (BTC) ecosystem. The mining difficulty has risen to a new all-time high of 110.45 trillion, making it approximately 110.45 trillion times harder than at the time of Bitcoin's genesis block. This is the eighth consecutive positive adjustment in difficulty, which puts pressure on miners as the industry becomes more competitive.
 
-The article notes that some publicly traded miners have had to diversify into other industries, such as high-performance computing (HPC) and artificial intelligence (AI), due to the increasing difficulty. Additionally, MARA Holdings has issued convertible bonds to buy bitcoin and is optimizing revenue by lending out its bitcoin at a single-digit yield.
+The article also notes that some publicly traded miners have diversified into other industries such as high-performance computing (HPC) and artificial intelligence (AI) due to the increased competition. Additionally, MARA Holdings has issued convertible bonds to buy Bitcoin and is optimizing revenue by lending out its Bitcoin to earn single-digit yields.
 
-The article also highlights that this is not the first time Bitcoin has seen a streak of consecutive positive adjustments in difficulty. In 2021, there were nine such adjustments following the China mining ban, which led to a bull market top when bitcoin hit around $69,000. Conversely, in 2018, there were 17 positive adjustments followed by a negative adjustment and then six more positive ones before the price dropped.
+Historically, similar consecutive positive adjustments in difficulty have occurred before cycle tops and bottoms in the past. However, there is no clear trend that emerges from this data. The article also notes that the continued strength of the hashrate, a measure of the network's mining power, suggests that 1 zettahash per second can be reached before the next halving event.
 
-While there is no clear trend emerging from these consecutive positive adjustments, they have been indicative of near-cycle tops and bottoms in the past. The article also notes that the continued strength of the hashrate (measured at 775 EH/s on a 7-day moving average) suggests that it may reach 1 zettahash per second before the next halving event.
+Overall, the article highlights the ongoing competitiveness in the Bitcoin mining industry and the potential for further growth in the network's mining power.
 
 Bitcoin Under Pressure as Goldman Trims Fed Rate Cut Expectations, BofA Sees Potential Hike After Blowout Jobs Report
 ---------------------------------------------------------------------------------------------------------------------
 
 09:57 13 Jan 2025
 
-The article discusses how Bitcoin's price fell by 1.6% due to reassessments of Federal Reserve rate cuts following a strong jobs report on Friday. The report showed nonfarm payrolls increased by 256,000 in December, surpassing expectations and prompting investment banks such as Goldman Sachs to adjust their expectations for future rate cuts. As a result, Bitcoin's price dipped below $93,000 and major coins like XRP, ADA, and DOGE posted bigger losses. The CoinDesk 20 Index was down over 3%.
+Here's a summary of the article:
 
-In traditional markets, the S&P 500 futures traded 0.3% lower, while the dollar index (DXY) neared 110 for the first time since late 2022. Treasury yields also rose, supporting further gains.
-
-The jobs report led Goldman Sachs to push out its next interest rate cut to June from March, and another rate cut in June 2026. The bank's economists now expect the Fed to cut just twice in 2025. Bank of America, on the other hand, fears an extended pause or even a rate hike.
-
-ING said that the market is right to see the risk of an extended pause from the Fed, and warned that if core inflation comes in at 0.3% month-on-month for a fifth consecutive month next week, it could increase the view that the Fed will not cut rates as expected.
-
-Overall, the article suggests that the strong jobs report has led to a reassessment of rate cut expectations, which is impacting the price of Bitcoin and other cryptocurrencies.
+The value of Bitcoin (BTC) fell by 1.6% to below $93,000 on Monday after major investment banks reassessed their expectations for Federal Reserve rate cuts following a strong jobs report released Friday. The report showed that nonfarm payrolls increased by 256,000 in December, beating expectations and leading some banks to push back the expected date of the next interest rate cut from March to June. Goldman Sachs reduced its forecast for rate cuts in 2025, while Bank of America (BofA) expects the Fed to pause or even hike rates due to concerns about inflation. The CoinDesk 20 Index, which tracks major cryptocurrencies like XRP, ADA, and DOGE, was down over 3% on Monday. Traditional markets were also affected, with the S&P 500 futures trading lower and the dollar index nearing a 4-year high.
 
 2025 Could be a Big Year for Crypto ETFs: Laser Digital
 -------------------------------------------------------
 
 08:51 13 Jan 2025
 
-According to Laser Digital, a subsidiary of financial services giant Nomura, 2025 could be a significant year for cryptocurrency exchange-traded funds (ETFs). The company predicts that over 12 crypto ETFs could be launched in the US this year if approved by the Securities and Exchange Commission (SEC). These products include a ProShares ETF that tracks the S&P 500's return in bitcoin, as well as ETFs focused on combined indices, such as bitcoin/ether, and individual coins like litecoin, XRP, and Solana. A bitcoin/ether ETF is expected to be approved first. The report notes that the success of spot bitcoin ETFs launched last year, which attracted $53 billion in assets under management, bodes well for the future of crypto ETFs. Additionally, the appointment of crypto-friendly regulators may lead to a decrease in lawsuits against crypto companies and an increase in institutional investor adoption of ETFs in 2025.
+Here's a summary of the article:
+
+Laser Digital, a subsidiary of financial services giant Nomura, predicts that 2025 could be a big year for cryptocurrency exchange-traded funds (ETFs) in the US. According to their report, over 12 crypto ETFs have been submitted to the Securities and Exchange Commission (SEC), with potential products including ones based on bitcoin, ether, litecoin, XRP, and Solana. A bitcoin/ether ETF is likely to be approved first. The launch of spot bitcoin ETFs in January last year was a success, with BlackRock's iShares Bitcoin Trust amassing $53 billion in assets under management. With the appointment of crypto-friendly SEC chairman Paul Atkins and the expected resolution of ongoing lawsuits against crypto companies, Laser Digital believes that new ETFs will be more likely to get approved. The report also predicts continued growth of the ETF market, with wider adoption by institutional investors in 2025.
 
 Singapore Blocks Polymarket, Following Taiwan and France
 --------------------------------------------------------
 
 08:16 13 Jan 2025
 
-Here's a summary of the article:
-
-The Singapore Gambling Regulatory Authority (GRA) has ordered local internet service providers to block access to Polymarket, a prediction market platform. This follows similar actions by authorities in Taiwan and France, who have banned their citizens from using the platform. In Taiwan, 17 people were arrested for betting on the country's presidential election. The GRA warns that accessing unlicensed gambling sites can result in fines up to SGD 10,000 or imprisonment of up to 6 months. Additionally, the US Commodity Futures Trading Commission has subpoenaed Coinbase to gather information about US nationals trading on Polymarket as part of an ongoing investigation.
+The Singapore Gambling Regulatory Authority (GRA) has ordered internet service providers to block access to the prediction market platform Polymarket. The warning message informs users that attempting to access an illegal gambling site hosted by an unlicensed provider is punishable with a fine of up to SGD 10,000 or a jail sentence of up to 6 months. This move follows Taiwan's decision to actively block its nationals from using Polymarket, as well as gaming authorities in France restricting access to the platform. Additionally, the US Commodity Futures Trading Commission has subpoenaed Coinbase for information on U.S. nationals trading on Polymarket, as part of an ongoing investigation.
 
 Altcoin Market Could Heat Up This Week With $3B Token Unlock Schedule, ONDO Leads the Charge
 --------------------------------------------------------------------------------------------
 
 07:02 13 Jan 2025
 
-The article discusses the upcoming token unlock schedule for alternative cryptocurrencies (altcoins), which is expected to release billions of dollars worth of supply into the market. Specifically, Ondo Finance's ONDO token will be unlocked, releasing 1.94 billion tokens worth $2.23 billion, which is equivalent to over 130% of the token's circulating supply. This sudden increase in supply has the potential to inject volatility into the market. Historically, unlocks that are equivalent to 100% of a token's average daily volume can lead to price swings and market instability. ONDO's unlock is particularly significant because it will release more tokens than its daily trading volume, which could exacerbate the situation. As a result, investors may experience increased volatility in the days leading up to and following the unlock.
+The article discusses the upcoming token unlock schedule for alternative cryptocurrencies (altcoins), which is expected to release billions of dollars worth of supply into the market. The largest unlock is for Ondo Finance's ONDO token, which will free up 1.94 billion tokens worth $2.23 billion, representing over 130% of its circulating supply. This large unlock could lead to increased volatility in the market, as it is significantly larger than ONDO's daily trading volume and may cause a rapid increase in supply that could put downward pressure on prices. As of press time, ONDO's price has fallen 5% for the day and 15% month-to-date, representing a significant decline from its record highs last week. The article notes that unlocks can sometimes lead to increased volatility, especially when the released tokens are equivalent to 100% of the average daily volume.
 
 Trump's Treasury Pick to Divest Bitcoin ETF Holdings to Eliminate Conflict of Interest: Report
 ----------------------------------------------------------------------------------------------
@@ -97,53 +83,56 @@ Trump's Treasury Pick to Divest Bitcoin ETF Holdings to Eliminate Conflict of In
 
 Here's a summary of the article:
 
-Scott Bessent, President-elect Donald Trump's nominee for Treasury Secretary, plans to dispose of several assets to avoid potential conflicts of interest if confirmed. The assets include an investment in bitcoin exchange-traded funds (ETF) worth $250,000 to $500,000, as well as other investments with Goldman Sachs and a stake in conservative publisher All Seasons. Bessent has filed ethics agreements and financial disclosures showing assets worth over $700 million. In a letter to the ethics office, he promised to avoid any actual or apparent conflict of interest if confirmed. If confirmed, Bessent would face the challenge of managing the federal debt amid Trump's plans for tax cuts and deregulation.
+Scott Bessent, President-elect Donald Trump's nominee for Treasury Secretary, is planning to sell several assets, including his investment in bitcoin exchange-traded funds (ETF), to avoid potential conflicts of interest. Bessent filed an ethics agreement and financial disclosures, revealing assets worth over $700 million, including a margin loan with Goldman Sachs and investments in China's currency and a conservative publisher. He has promised to avoid any conflict of interest if confirmed for the Treasury Secretary position. As a pro-crypto advocate, Bessent would face the challenge of managing the federal debt amidst Trump's plans to extend tax cuts and eliminate taxes on social security benefits.
 
 Red-Hot DeFi Platform Usual Faces Backlash as Protocol Update Triggers Sell-Off
 -------------------------------------------------------------------------------
 
 22:26 10 Jan 2025
 
-Here is a summary of the article:
+The article discusses the decentralized finance (DeFi) protocol Usual Protocol and its recent controversy. The protocol allows users to stake their funds and earn rewards in the form of its USD0 and USUAL tokens. However, the introduction of a new feature called "dual-path exit" allowed investors to redeem their locked-up tokens early at a discounted price, which caught many off guard.
 
-Usual Protocol, a decentralized finance (DeFi) platform, experienced backlash from its community after introducing a change to its yield-generating token without warning. The tweak in the protocol's USD0++ token, which represents staked versions of its $1-anchored stablecoin USD0, triggered a sell-off on secondary markets. As a result, the USD0++ token briefly fell below 90 cents from $1 and the protocol's governance token USUAL plummeted by as much as 17% before recovering some losses.
+The change caused a sell-off on secondary markets, with the protocol's yield-generating token USD0++ falling briefly below 90 cents from $1. The governance token USUAL plummeted as much as 17% before recovering some of its losses. The sudden change in the redemption mechanism sparked criticism across DeFi users for changing the design without warning.
 
-The issue arose from the introduction of a "dual-path exit" feature that allows investors to redeem locked-up tokens early at a price floor, which was not clearly communicated to users. This change caught yield farmers off-guard and caused market panic, leading to a significant drop in the protocol's total value locked (TVL) metric.
+The Usual team claimed that the change was communicated in advance, but many investors felt that the communication was not adequate. The controversy highlights the potential risks of DeFi products that entice users with high-yields via token incentives and rewards flywheels.
 
-The Usual team apologized for the communication breakdown and emphasized that the design change had been announced in advance, but many users felt that it was not adequately explained. The episode serves as a reminder of the potential risks associated with DeFi products that offer high-yields and token incentives, and highlights the importance of transparent communication to users.
+Some key takeaways from the article include:
 
-As of now, USD0++ is trading at 0.91 USD0 in the Curve pool, while the protocol's TVL has dropped below $1.6 billion.
+* The introduction of the "dual-path exit" feature allowed investors to redeem their locked-up tokens early at a discounted price.
+* The change caught many off guard, causing a sell-off on secondary markets.
+* The protocol's total value locked (TVL) dropped below $1.6 billion.
+* The controversy highlights the potential risks of DeFi products that entice users with high-yields via token incentives and rewards flywheels.
+
+Overall, the episode serves as a lesson for crypto investors to be aware of the potential risks associated with DeFi products and to thoroughly understand the rules and mechanisms before investing.
 
 U.S. Enforcement Chief Behind CFTC Crypto Cases Exits Before Trump Arrives
 --------------------------------------------------------------------------
 
 21:41 10 Jan 2025
 
-Enforcement Director Ian McGinley is leaving the Commodity Futures Trading Commission (CFTC) after a relatively short tenure that saw several high-profile cases related to cryptocurrency. During his time at the agency, he oversaw the conclusion of the enforcement work against collapsed platform FTX, which resulted in the largest recovery of dollars for victims in CFTC history. McGinley also played a key role in the CFTC's efforts to regulate digital assets, stating that the agency had "risen to the challenge" in addressing this area.
-
-McGinley's departure opens up an opportunity for Republicans to redirect the agency's enforcement work when a Trump appointee takes over as chairman. Sitting Republican commissioners Caroline Pham and Summer Mersinger are potential candidates for the chairmanship, along with former Commissioner Brian Quintenz. If crypto legislation advances in 2025, the CFTC could potentially surpass the Securities and Exchange Commission (SEC) as the dominant agency overseeing US digital assets markets.
-
-Overall, McGinley's departure marks a significant change at the CFTC, which has been actively pursuing cases related to cryptocurrency. The agency's focus on digital assets is likely to continue under new leadership.
+Ian McGinley, Enforcement Director at the Commodity Futures Trading Commission (CFTC), is leaving his position in a week. During his relatively short tenure, which began in February 2023, he oversaw several high-profile cases related to cryptocurrency, including lawsuits against Binance and FTX. The CFTC has also pursued actions against other crypto projects, such as KuCoin and Falcon Labs. McGinley's departure opens the door for Republicans to redirect the agency's enforcement work when a new chair is appointed. The role of Chair may go to one of three sitting Republican commissioners: Caroline Pham, Summer Mersinger, or former Commissioner Brian Quintenz. The CFTC's focus on digital assets has been a priority during McGinley's tenure, and if crypto legislation advances in 2025, the agency could potentially surpass the Securities and Exchange Commission (SEC) as the dominant regulator of US digital asset markets.
 
 Biden's Consumer Watchdog Pushes for Last-Minute Stablecoin Rule
 ----------------------------------------------------------------
 
 21:22 10 Jan 2025
 
-The US Consumer Financial Protection Bureau (CFPB) has proposed new regulations for stablecoin issuers and wallet providers. The proposal would apply the Electronic Fund Transfer Act to virtual wallets and stablecoins, which are digital tokens tied to a steady asset like the US dollar. This could have significant implications for US-based stablecoin firms and crypto wallet providers.
+The US Consumer Financial Protection Bureau (CFPB) has proposed new regulations that would impact stablecoin issuers and wallet providers. The proposal aims to apply the Electronic Fund Transfer Act (EFTA) to virtual wallets and stablecoins, which are digital tokens tied to a stable asset like the US dollar. This could have significant implications for the way US-based stablecoin firms and crypto wallet providers operate.
 
-The proposal suggests that existing law references to "funds" should include stablecoins and other fungible assets that operate as a medium of exchange or means of payment. Additionally, the regulation would require institutions providing virtual currency wallets to make consumer disclosures, provide protections against unauthorized transactions, and allow users to cancel improper transfers.
+The proposal suggests that stablecoins should be treated as a payment mechanism, similar to traditional currencies. It also proposes extending EFTA protections to virtual currency wallets used for retail transactions, such as person-to-person transfers or buying goods and services.
 
-However, the proposal's future is uncertain due to the upcoming arrival of President-elect Donald Trump, who will have the power to appoint a new CFPB chief. The current director, Rohit Chopra, appears unlikely to step down voluntarily. Furthermore, the Republican-led Congress has the authority to erase the regulation using the Congressional Review Act.
+The regulation would require institutions providing these accounts to make consumer disclosures, provide protections against unauthorized transactions, and allow users to cancel improper transfers. This could conflict with the decentralized nature of some crypto operations, such as decentralized finance (DeFi) platforms that operate without outside interference.
 
-The proposal has received both praise and criticism from industry experts and consumer advocacy groups. Better Markets applauded the move, saying it would protect consumers and level the playing field among digital payment mechanisms. However, some critics argue that the CFPB's arguments are "embarrassingly conclusory" and fail to consider decentralized ledgers and self-hosted wallets.
+The proposal is still in its early stages, and it's unclear whether it will be finalized under the Trump administration. The CFPB director, Rohit Chopra, appears unlikely to step down voluntarily, but Trump could appoint a new director who might revise or reject the proposal.
 
-The proposal is now open for public comment, but its fate remains uncertain due to the potential change in leadership at the CFPB.
+Several organizations have weighed in on the proposal. Consumer advocacy group Better Markets has applauded the move, saying it would level the playing field among digital payment mechanisms and protect consumers. The Cato Institute's Jack Solowey has criticized the proposal, calling its arguments "embarrassingly conclusory" and failing to address decentralized ledgers and self-hosted wallets.
+
+Overall, the proposal has sparked debate in the crypto community, with some seeing it as a step towards greater regulation and consumer protection, while others view it as an overreach by the government.
 
 Kenya Prepares to Legalize Cryptocurrencies in Policy Shift: Report
 -------------------------------------------------------------------
 
 17:53 10 Jan 2025
 
-Kenya is shifting its stance on cryptocurrency by preparing legislation to legalize and regulate the industry. This marks a change from the government's previous warnings against the use of virtual assets (VAs) and Virtual Asset Service Providers (VASPs). According to Cabinet Secretary John Mbadi, the country aims to create a regulatory framework that balances the benefits of cryptocurrencies with risks such as money laundering, terrorism financing, and fraud. Kenya launched a draft policy on VAs and VASPs in December, which aims to establish a competitive market, foster innovation, and promote financial literacy. This move is significant, considering Kenya's central bank previously warned against cryptocurrency use in 2015 and the country was considering taxing crypto transactions in 2022. With an estimated 8.5% of Kenyans owning cryptocurrencies, the government's new approach is seen as a step towards embracing the growth of the industry.
+Kenya is preparing to legalize cryptocurrencies and establish a regulatory framework to govern the industry. This shift comes after previous warnings against cryptocurrency use, with the country's central bank stating in 2015 that these assets were not legal tender. According to Cabinet Secretary John Mbadi, Kenya aims to create a "fair, competitive and stable market" for cryptocurrency players and foster innovation and financial literacy. The government has launched a draft policy on virtual assets and service providers, which seeks to capitalize on the industry's potential benefits while mitigating risks such as money laundering, terrorism financing, and fraud. With approximately 8.5% of Kenyans owning cryptocurrencies, lawmakers are considering a law to tax crypto as the industry continues to grow in the country.
 
