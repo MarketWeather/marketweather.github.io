@@ -1,43 +1,56 @@
 
-### Last Update : 10:04 14/01/2025
+### Last Update : 11:04 14/01/2025
+
+Options Tied to BlackRock's Bitcoin ETF Surge to Nearly 50% of Deribit's BTC Open Interest in Two Months
+--------------------------------------------------------------------------------------------------------
+
+09:26 14 Jan 2025
+
+The article discusses the growing demand for regulated crypto products in the US market. Specifically, it highlights the success of BlackRock's spot bitcoin ETF (IBIT), which was approved by the SEC and debuted on November 19. The IBIT options, tied to the ETF's price, have already reached a notional value of $11 billion, accounting for almost half of Deribit's eight-year-old bitcoin options market.
+
+The article notes that Deribit has historically been the leading platform for crypto options trading, but its offshore status limited access to US-based investors. The introduction of IBIT options, which are regulated and accessible to US retail traders, is filling this gap. Volmex Finance, a crypto derivatives protocol, states that the growing popularity of IBIT options is challenging Deribit's dominance in the market.
+
+Despite this competition, Deribit's CEO Luuk Strijers views the emergence of IBIT options positively, noting that they have created new arbitrage opportunities and facilitated enhanced risk-offloading strategies for institutional participants. The activity in IBIT options is concentrated in short-dated options, indicating a demand for lower-priced options.
+
+Overall, the article suggests that the US market's demand for regulated crypto products is real, and IBIT options are filling this demand by providing a regulated avenue for US retail traders to participate in the crypto options market.
 
 Is Bitcoin Bottom In? BTC's Price Action is Inverse of December Peak Above $108K
 --------------------------------------------------------------------------------
 
 06:21 14 Jan 2025
 
-The article discusses the recent price movement of Bitcoin (BTC) and whether its weakness has run its course. BTC's price initially fell due to expectations that the Federal Reserve may raise interest rates, but then rebounded strongly, closing above $94,000. The article suggests that this price action, specifically a "long-legged Doji candle," is a potential signal of a bottom, similar to what happened in December when prices stalled at record highs.
+The article discusses the recent price movement of Bitcoin (BTC) and whether its weakness has run its course. After a sharp decline on Monday, BTC prices recovered by the end of the day, forming a "long-legged Doji candle" at the key support zone of $90,000-$93,000. This pattern is often seen as a signal of a potential bottom, especially when it occurs at a key support level or after a notable price drop.
 
-The author notes that while Monday's price action hints at a potential bottom, confirmation is needed before traders can consider buying again. This means waiting for BTC to decisively move above the day's high of $95,900. The bears' target is now the previous low near $89,000.
+The article notes that Monday's price action contrasts with mid-December, when the rally stalled and turned lower from record highs above $108,000. The current price movement suggests that the downside may have been exhausted, but confirmation is still required in the form of a decisive move above the day's high of $95,900.
 
-The article also highlights that corporate demand for BTC has outpaced new supply this year, indicating a bullish demand-supply dynamic. Additionally, traders are awaiting the US CPI report on January 15th, which could influence Fed rate cut expectations and impact Bitcoin's price volatility. Overall, market watchers are focused on signs of stability to determine whether there will be further downside or upside in BTC's price.
+The article also highlights the demand-supply dynamics, which continue to lean bullishly, with corporate demand for BTC outpacing the supply of new coins this year. The market is now focused on signs of stability ahead of Wednesday's U.S. CPI report, which could influence Fed rate cut expectations and impact price volatility.
+
+Overall, the article suggests that while there may be some uncertainty in the short term, the current price action hints at a potential bottom for BTC, but confirmation is still needed to determine the next direction for prices.
 
 U.S. Judges Demand SEC 'Explain Itself' for Rebuffing Requests for Crypto Rules
 -------------------------------------------------------------------------------
 
 20:45 13 Jan 2025
 
-The US Securities and Exchange Commission (SEC) was ordered by a circuit-court ruling on Monday to thoroughly explain its decision not to write regulations for determining whether crypto assets are securities or not. The order came in response to a petition filed by Coinbase, a cryptocurrency exchange, which had requested that the SEC provide legal clarity on this issue. The court ruled that instead of forcing the agency to make a rule, it would order the SEC to explain its decision not to write one. This is seen as a major setback for the SEC and could leave an opening for new leadership to change the agency's course on crypto oversight.
+The US Securities and Exchange Commission (SEC) was ordered by a circuit-court ruling on Monday to explain its decision not to grant Coinbase's request for regulations on how to assess whether crypto assets are securities or not. The ruling came after a three-judge panel for the US Court of Appeals for the Third Circuit partially sided with Coinbase's effort to get the agency to provide legal clarity. The judges ruled that the SEC's actions were "arbitrary and capricious" and ordered the agency to explain its decision, rather than forcing it to make a rule. This could potentially open up an opportunity for the new leadership at the SEC to change its approach on crypto oversight.
 
 U.S. Banking Should Ease Path for Crypto, Republican Taking Reins at FDIC Suggests
 ----------------------------------------------------------------------------------
 
 18:06 13 Jan 2025
 
-Travis Hill, Vice Chairman of the Federal Deposit Insurance Corporation (FDIC), is set to take over as acting chairman when current Chairman Martin Gruenberg steps down on January 19. Before taking the reins, Hill has outlined his thoughts on pro-crypto policies, calling for the FDIC to issue new guidance on digital assets and adopt a more transparent approach to regulating cryptocurrency-related activities.
+Here's a summary of the article:
 
-Hill criticized the agency's current approach, which he believes has stifled innovation and contributed to a perception that the FDIC is "closed for business" when it comes to blockchain and distributed ledger technology. He argued that a one-by-one approach to directing banks' cryptocurrency ties has led to regulatory approvals being delayed or denied, pushing many banks away from digital assets.
-
-Hill also expressed concern about the agency's role in pressuring banks to shed crypto clients, stating that efforts to "debank" law-abiding customers are unacceptable. He emphasized the need for regulators to work towards ending this practice and ensuring that the FDIC promotes access to financial services for all individuals.
-
-As Vice Chairman, Hill will temporarily take over as acting chairman until a new permanent chairman is appointed by President-elect Donald Trump. His pro-crypto stance suggests that he may prioritize policies that support innovation and accessibility in the financial sector.
+Travis Hill, the senior Republican at the Federal Deposit Insurance Corporation (FDIC), is expected to take over as chairman temporarily or potentially permanently after President-elect Donald Trump takes office. In a speech on January 10, Hill criticized the agency's current approach to regulating digital assets, such as cryptocurrencies. He believes that the FDIC's piecemeal approach has stifled innovation and driven banks away from cryptocurrency-related business lines. Hill suggested that the agency should clearly outline legally permissible activities and conduct them in accordance with safety and soundness standards. He also criticized the FDIC's role in pressuring banks to shed crypto clients, stating that efforts to "debank" law-abiding customers are unacceptable. With current Chairman Martin Gruenberg stepping down on January 19, Hill is set to take over as interim chairman until a permanent replacement is appointed.
 
 Jamie Dimon Still Sees ‘No Value’ in Bitcoin
 --------------------------------------------
 
 17:47 13 Jan 2025
 
-JPMorgan Chase CEO Jamie Dimon reiterated his negative views on Bitcoin, stating that it has "no intrinsic value" and is heavily used by sex traffickers, money launderers, and ransomware operators. This is consistent with his long-standing opposition to Bitcoin, unlike BlackRock's Larry Fink who previously opposed Bitcoin but later reversed his stance. Despite this, JPMorgan Chase has profited from the growing use of Bitcoin as a financial product and has rebranded its blockchain platform to focus on real-world tokenization. The bank plans to introduce on-chain foreign exchange capabilities in 2025. Dimon's comments come ahead of Donald Trump's return to the presidency, which is expected to bring a friendlier regulatory environment for Bitcoin and cryptocurrencies.
+Here is a summary of the article:
+
+JPMorgan Chase CEO Jamie Dimon reiterated his negative views on Bitcoin, saying it has "no intrinsic value" and is used by criminals such as sex traffickers, money launderers, and ransomware hackers. Despite this, JPMorgan has profited from Bitcoin's growth as a financial product and even serves as an authorized participant for BlackRock's spot Bitcoin ETF. The bank has also rebranded its blockchain platform to focus on real-world tokenization, aiming to reduce limitations in the current financial infrastructure. Dimon's comments come ahead of Donald Trump's return to the presidency, which is expected to bring a more favorable regulatory environment for Bitcoin and cryptocurrencies.
 
 Global Investment Giant Capital Group Reaches 5% Stake in Bitcoin Holder Metaplanet
 -----------------------------------------------------------------------------------
@@ -46,7 +59,7 @@ Global Investment Giant Capital Group Reaches 5% Stake in Bitcoin Holder Metapla
 
 Here's a summary of the article:
 
-Capital Group, a large investment company with over $2.3 trillion in assets under management, has become one of the biggest shareholders of Metaplanet, a Japanese hotel industry investor. Metaplanet is notable for its bitcoin treasury strategy, similar to that of MicroStrategy, and has seen its share price increase by over 1,700% since adopting this strategy in April 2024. Capital Group also owns a significant stake in MicroStrategy, a bitcoin development company, with over 18 million shares (around 8%). Other major investors include Vanguard Group, Morgan Stanley, and Jane Street Group.
+Capital Group, one of the largest investment companies in the world with over $2.3 trillion in assets under management, has become a significant shareholder in Metaplanet, a Japanese company that invests in the hotel industry. Metaplanet is notable for its bitcoin treasury strategy, which has seen its share price increase by over 1,700% since adopting this approach in April 2024. Capital Group's stake in Metaplanet was highlighted by CEO Simon Gerovic. Additionally, Capital Group also owns a significant stake in MicroStrategy, a Bitcoin development company, with over 18 million shares, representing an 8% stake.
 
 MicroStrategy Added 2,530 Bitcoin for $243M, Bringing Holdings to 450K BTC
 --------------------------------------------------------------------------
@@ -55,57 +68,47 @@ MicroStrategy Added 2,530 Bitcoin for $243M, Bringing Holdings to 450K BTC
 
 Here's a summary of the article:
 
-MicroStrategy, led by CEO Michael Saylor, has increased its bitcoin holdings for the tenth consecutive week. In the latest purchase, the company bought 2,530 BTC worth $243 million, bringing its total holdings to 450,000 BTC. The average price per bitcoin was $95,972. Saylor also used his platform at the ICR Conference in Orlando to recommend investing in bitcoin over bonds, calling bonds "toxic" due to their decline since 2020 while bitcoin has increased significantly. Meanwhile, Semler Scientific, another company with ties to MicroStrategy's CEO, acquired an additional 237 BTC worth $23.3 million, bringing its total holdings to 2,321 BTC. Both companies' shares were down slightly in premarket trading following the announcements.
+MicroStrategy, a company co-founded by Michael Saylor, has increased its bitcoin holdings for the tenth consecutive week. In the latest week, MicroStrategy purchased 2,530 BTC for $243 million, bringing its total holdings to 450,000 BTC. This adds to its existing portfolio, with an average purchase price of $62,691.
+
+During a presentation at the ICR Conference, Saylor recommended investing in bitcoin over bonds, calling bonds "toxic". He pointed out that bitcoin has increased significantly since 2020, when MicroStrategy adopted it as its primary treasury reserve asset. In contrast, bonds have declined over the same period.
+
+MicroStrategy's shares and the price of bitcoin dropped by nearly 5% and $90,000 respectively in premarket trading.
+
+Additionally, Semler Scientific, another company that co-wrote this article has invested an additional 237 BTC for $23.3 million at an average price of $98,267. This adds to its existing holdings of 2,321 BTC worth $191.9 million at an average purchase price of $82,867. Its shares also dropped by almost 7% in premarket trading.
 
 Bitcoin Difficulty Hits All-Time High, Adjusts Positively for 8th Consecutive Time
 ----------------------------------------------------------------------------------
 
 10:58 13 Jan 2025
 
-The article discusses the current state of the Bitcoin (BTC) mining ecosystem. The mining difficulty adjustment has reached an all-time high of 110.45 trillion, making it approximately 110.45 trillion times harder than when Bitcoin was first launched. This marks the eighth consecutive positive adjustment in difficulty, which puts pressure on miners as they try to mine blocks and receive bitcoin rewards.
+The article discusses the recent record-breaking development in the Bitcoin (BTC) mining ecosystem. The mining difficulty has adjusted to a new all-time high of 110.45 trillion, making it approximately 110.45 trillion times harder than at the time of Bitcoin's genesis block. This is the eighth consecutive positive adjustment in difficulty, which puts pressure on miners as they must work harder to mine blocks and receive bitcoin rewards.
 
-The article notes that this is not the first time we've seen such a trend. In the summer of 2021, there were nine consecutive positive adjustments following the China mining ban, which was followed by a bear market in 2022. Conversely, from December 2017 to Q4 2018, there were 17 positive adjustments before a decline in prices.
+The article notes that this level of consecutive positive adjustments has occurred previously during the summer of 2021, shortly after the China mining ban, when the hashrate dropped by roughly 50%. However, it also highlights that there is no clear trend that emerges when Bitcoin puts in many positive consecutive adjustments. It has indicated near cycle tops and bottoms in the past.
 
-While there is no clear trend that emerges when Bitcoin sees many positive consecutive adjustments, it has historically indicated near cycle tops and bottoms. The article concludes that the continued strength of the hashrate (the total processing power of the network) at 775 EH/s suggests that we may reach 1 zettahash per second before the next halving.
+The article also mentions that some publicly traded miners have pivoted into other industries, such as high-performance computing (HPC) and artificial intelligence (AI), as they struggle to survive solely through bitcoin mining. Additionally, MARA Holdings (MARA) has issued convertible bonds to buy bitcoin and is optimizing revenue by lending out its bitcoin at a single-digit yield.
 
-Overall, the article highlights the challenges faced by miners as the mining difficulty continues to rise, and notes that some publicly traded miners have pivoted into other industries such as high-performance computing and artificial intelligence.
+The article concludes that the continued strength of the hashrate, which is currently at 775 EH/s on a 7-day moving average, implies that it could reach 1 zettahash per second before the next halving.
 
 Bitcoin Under Pressure as Goldman Trims Fed Rate Cut Expectations, BofA Sees Potential Hike After Blowout Jobs Report
 ---------------------------------------------------------------------------------------------------------------------
 
 09:57 13 Jan 2025
 
-The article discusses the impact of a strong US jobs report on the cryptocurrency market, particularly Bitcoin (BTC). After the report showed an unexpected increase in job additions and a decline in the unemployment rate, major investment banks reassessed their expectations for Federal Reserve (Fed) rate cuts. As a result:
+The article discusses the impact of a strong US jobs report on the cryptocurrency market, particularly Bitcoin (BTC). The report showed a significant increase in nonfarm payrolls and a decline in the unemployment rate, which led major investment banks to reassess their expectations for Federal Reserve (Fed) rate cuts. As a result:
 
 * Bitcoin's price dropped 1.6% to below $93,000
-* Other cryptocurrencies like XRP, ADA, and DOGE also fell by 3%
-* The S&P 500 futures index dropped 0.3%, indicating an extension of Friday's decline
-* The US dollar index (DXY) neared 110 for the first time since late 2022
+* Other cryptocurrencies like XRP, ADA, and DOGE also fell
+* Traditional markets, such as the S&P 500 futures, traded lower
+* The US dollar index surged to near 110 for the first time since late 2022
 
-The strong jobs report led some banks to push back their expected rate cuts, with Goldman Sachs now expecting only two rate cuts in 2025, and another in 2026. Bank of America, on the other hand, fears an extended pause or even a rate hike.
+Goldman Sachs, JPMorgan, and Bank of America (BofA) revised their rate-cut expectations. Goldman expects only two rate cuts in 2025, while BofA fears an extended pause or even a rate hike. ING noted that the market is right to see the risk of an extended pause from the Fed.
 
-The article also notes that the market is waiting for next week's consumer price index (CPI) report to see if it confirms the hawkish Fed narrative. If core inflation comes in higher than expected, it could add to the risk of an extended pause or even a rate hike from the Fed.
+The strong jobs report has led many to believe that the Fed may not cut interest rates as aggressively as previously thought. The article also mentions the upcoming December consumer price index (CPI) report, which could further impact market expectations and the direction of rate cuts.
 
 2025 Could be a Big Year for Crypto ETFs: Laser Digital
 -------------------------------------------------------
 
 08:51 13 Jan 2025
 
-According to Laser Digital, a subsidiary of financial services giant Nomura, 2025 could be a significant year for cryptocurrency exchange-traded funds (ETFs). As many as 12 crypto ETFs may be launched in the US if approved by the Securities and Exchange Commission (SEC), with potential products including a ProShares ETF that tracks the S&P 500's return in bitcoin, a combined bitcoin/ether ETF, and ETFs based on litecoin, XRP, and Solana. Laser Digital predicts that a bitcoin/ether ETF is likely to be approved first. The report notes that the appointment of crypto-friendly SEC Chairman Paul Atkins and the resolution of ongoing lawsuits against crypto companies may contribute to the approval of these new ETFs. Additionally, the ETF market is expected to continue growing in terms of assets under management (AUM), with wider adoption by institutional investors anticipated in 2025.
-
-Singapore Blocks Polymarket, Following Taiwan and France
---------------------------------------------------------
-
-08:16 13 Jan 2025
-
-Here's a summary of the article:
-
-The Singapore Gambling Regulatory Authority (GRA) has ordered local internet service providers to block access to Polymarket, a prediction market platform. This comes after similar actions taken by authorities in Taiwan and France. Users attempting to access the site are warned that it is an "illegal gambling site hosted by an unlicensed gambling service provider" and may face fines or jail sentences. Singapore has not made a public announcement on the issue, but local law enforcement has been notified. This development adds to the growing list of jurisdictions taking action against Polymarket, which has also faced scrutiny from the US Commodity Futures Trading Commission over alleged illegal activities related to its platform.
-
-Altcoin Market Could Heat Up This Week With $3B Token Unlock Schedule, ONDO Leads the Charge
---------------------------------------------------------------------------------------------
-
-07:02 13 Jan 2025
-
-The market for alternative cryptocurrencies (altcoins) is expected to experience increased volatility this week due to the upcoming token unlock schedule. The unlocks, which release frozen tokens onto the market, are worth a total of $3 billion - the largest amount since November. Ondo Finance's ONDO token accounts for a significant portion of this total, with 1.94 billion ONDO tokens worth $2.23 billion set to be released on January 18th. This is equivalent to over 130% of the token's circulating supply and several times its daily trading volume. While unlocks are designed to prevent rapid price swings and market instability, large releases like this one can still inject volatility into the market. The ONDO token has already experienced a significant decline in value since hitting record highs in December, losing nearly 15% of its value in the past month.
+According to a report from Laser Digital, 2025 could be a significant year for cryptocurrency exchange-traded funds (ETFs). The company expects over 12 crypto ETFs to be launched in the US this year, pending approval from the Securities and Exchange Commission (SEC). These potential products include an ETF that tracks the S&P 500's return in bitcoin, as well as combined bitcoin/ether ETFs and those based on litecoin, XRP, and Solana. The report suggests that a bitcoin/ether ETF is likely to be approved first. The launch of spot bitcoin ETFs in January 2023 was successful, with BlackRock's iShares Bitcoin Trust amassing over $53 billion in assets under management. The appointment of crypto-friendly regulators at the SEC and the expected growth of the ETF market are factors that could contribute to a high likelihood of approval for these new ETFs.
 
