@@ -1,68 +1,85 @@
 
-### Last Update : 12:05 14/01/2025
+### Last Update : 13:05 14/01/2025
+
+One of Italy's Largest Bank Buys $1M Worth of Bitcoin: Report
+-------------------------------------------------------------
+
+11:05 14 Jan 2025
+
+Here's a summary of the article:
+
+Italy's largest bank by assets, Intesa Sanpaolo, has purchased 11 Bitcoins (BTC) worth over $1 million. This is according to an internal message seen by Reuters dated January 13, 2025. The bank has had a proprietary trading desk in place for several years and also handles spot trading for other cryptocurrencies. The purchase of BTC follows the cryptocurrency's price drop on Monday, but it has since recovered, with its value increasing by 2% to over $96,500.
 
 Options Tied to BlackRock's Bitcoin ETF Surge to Nearly 50% of Deribit's BTC Open Interest in Two Months
 --------------------------------------------------------------------------------------------------------
 
 09:26 14 Jan 2025
 
-Here's a summary of the article:
+The article discusses the growing demand for regulated crypto products in the US. Specifically, it highlights the success of BlackRock's spot bitcoin ETF-approved options, known as IBIT, which have already become almost half the size of Deribit's eight-year-old bitcoin options market. As of Monday, there were 2.16 million open or active IBIT options contracts, representing a notional value of $11 billion.
 
-The US Securities and Exchange Commission (SEC)-approved options tied to BlackRock's spot Bitcoin ETF (IBIT) have quickly gained popularity, with almost half the size of Deribit's eight-year-old bitcoin options market. As of Monday, there were 2.16 million open or active IBIT options contracts worth $11 billion, which is equivalent to 50% of Deribit's $23 billion in open BTC options. This surge in demand for regulated crypto products is driven by US retail traders and institutional investors seeking a safer and more accessible option. While Deribit has traditionally held the leading position in the crypto options market, IBIT options are now challenging its dominance. According to Deribit's CEO Luuk Strijers, the activation of IBIT options has created positive ripple effects for the industry by introducing new arbitrage opportunities and facilitating risk-offloading strategies for institutional participants.
+This surge in demand is significant because IBIT options are regulated and appeal to both institutional investors and US retail traders who prefer regulated markets. This has created a new segment of investors that have previously been unable to access Deribit's market due to its offshore status.
+
+While some might expect Deribit's dominance in the crypto options market to be negatively impacted by IBIT, Deribit's CEO Luuk Strijers believes that IBIT options have actually created positive effects. He notes that the concentration of activity in short-dated options indicates a demand for lower premium (priced) options, which has led to new arbitrage opportunities and enhanced risk-offloading strategies for institutional participants.
+
+Overall, the article suggests that the regulated crypto market is expanding rapidly, with IBIT options filling a gap for US-based investors seeking regulated products.
 
 Is Bitcoin Bottom In? BTC's Price Action is Inverse of December Peak Above $108K
 --------------------------------------------------------------------------------
 
 06:21 14 Jan 2025
 
-The article discusses the current state of Bitcoin's price and whether its recent weakness is likely to continue. According to the article, Monday's price action suggests that Bitcoin may have reached a bottom, as it rebounded from intraday lows to reach $94,000 by the end of the day. This rebound was accompanied by a "long-legged Doji candle," which is often seen as a signal of a potential bottom.
-
-The article notes that this pattern has emerged at a key support level, which has consistently restricted the downside since late November. While this suggests that Bitcoin may have reached a bottom, confirmation is still required in the form of a decisive move above Monday's high of $95,900.
-
-The article also highlights that corporate demand for Bitcoin has outpaced new supply, suggesting a bullish demand-supply dynamic. However, market participants are now focused on signs of stability ahead of Wednesday's U.S. CPI report, which could influence Fed rate cut expectations and potentially impact Bitcoin's price.
+The article discusses the current state of Bitcoin's (BTC) price movement and whether its recent weakness has run its course. The market saw a sharp recovery from intraday lows on Monday, which some analysts see as a sign that the downtrend may have exhausted itself. This is indicated by the appearance of a "long-legged Doji candle" pattern, which can signal a potential bottom. While this is encouraging for bulls, confirmation is still needed in the form of a decisive move above $95,900 to trigger fresh buying. Bears are now looking at Monday's low near $89,000 as the level to beat. The article also notes that corporate demand for BTC has outpaced new coin supply, keeping the market's overall dynamics bullish. Traders are now awaiting the US CPI report on January 15 to influence Fed rate cut expectations and potentially impact price volatility.
 
 U.S. Judges Demand SEC 'Explain Itself' for Rebuffing Requests for Crypto Rules
 -------------------------------------------------------------------------------
 
 20:45 13 Jan 2025
 
-The US Securities and Exchange Commission (SEC) was ordered by a circuit-court ruling on Monday to thoroughly explain its decision not to grant Coinbase's request for regulations on how to assess whether crypto assets are securities or not. The three-judge panel of the US Court of Appeals for the Third Circuit partially sided with Coinbase, saying that instead of forcing the agency to make a rule, it should just explain its position on crypto assets unequivocally.
+Here's a summary of the article:
 
-The ruling was seen as a blow to the SEC and its current chair, Gary Gensler, who is stepping down in January. The court called the SEC's actions "arbitrary and capricious" and noted that if the agency were to promulgate a rule banning crypto assets, it would likely face legal challenges.
-
-The ruling could create an opportunity for the SEC's new leadership to change its course on crypto oversight. The new chair, Paul Atkins, could use this demand as an opening to provide clearer guidance on how to assess whether crypto assets are securities or not. Alternatively, an acting chairman like Commissioner Mark Uyeda could take action while awaiting Senate confirmation.
-
-Coinbase's Chief Legal Officer, Paul Grewal, welcomed the ruling and thanked the court for its careful consideration. The SEC has yet to comment, but Coinbase is expected to review the decision and determine next steps.
+The US Securities and Exchange Commission (SEC) was ordered by a circuit-court ruling on Monday to explain its decision not to regulate cryptocurrencies, specifically in regards to determining whether certain assets are securities or not. The order came after Coinbase, a cryptocurrency exchange, requested that the SEC write regulations to clarify this issue. A three-judge panel for the US Court of Appeals for the Third Circuit partially sided with Coinbase's request, stating that the SEC must provide a clear explanation for its refusal to create regulations rather than simply forcing the agency to make a rule. The ruling was seen as a rebuke of the SEC and a potential opening for new leadership to change the agency's approach on crypto oversight. The decision also called the SEC's actions "arbitrary and capricious."
 
 U.S. Banking Should Ease Path for Crypto, Republican Taking Reins at FDIC Suggests
 ----------------------------------------------------------------------------------
 
 18:06 13 Jan 2025
 
-Travis Hill, the senior Republican at the Federal Deposit Insurance Corp (FDIC), has outlined his thoughts on pro-crypto policies ahead of potentially taking over as chairman. As vice chairman, Hill wants the FDIC to issue new guidance for digital assets and abandon its current piecemeal approach to regulating cryptocurrency in the banking system. He believes this approach has stifled innovation and contributed to a negative public perception. Hill also criticizes the agency's role in pressuring banks to shed crypto clients, stating that efforts to "debank" law-abiding customers are unacceptable. With the current chairman set to step down on January 19, Hill is expected to take over as interim chairman until a permanent replacement is appointed.
+The article discusses the upcoming change in leadership at the Federal Deposit Insurance Corporation (FDIC) and the views of Travis Hill, a senior Republican at the agency. As the current chairman Martin Gruenberg steps down on January 19, Hill is expected to take over as interim chairman until a permanent replacement is appointed.
+
+In his remarks, Hill criticized the FDIC's approach to digital assets, such as cryptocurrencies, which he believes has stifled innovation and contributed to a negative public perception. He suggests that the agency should adopt a more transparent and clear approach to regulating crypto activities in the banking system, rather than taking a piecemeal approach.
+
+Hill also criticizes the FDIC's role in pressuring banks to shed crypto clients, which he believes is unacceptable as it hinders efforts to increase financial inclusion. He argues that regulators must work to end this practice and ensure that law-abiding customers are not deprived of banking services.
+
+Overall, Hill's remarks suggest a more pro-crypto approach at the FDIC under his leadership, which could potentially lead to increased innovation and adoption in the digital asset space.
 
 Jamie Dimon Still Sees ‘No Value’ in Bitcoin
 --------------------------------------------
 
 17:47 13 Jan 2025
 
-JPMorgan Chase CEO Jamie Dimon has reiterated his negative view on Bitcoin, stating that it "has no intrinsic value" and is heavily used by criminals such as sex traffickers, money launderers, and ransomware operators. This is consistent with his previous stance, unlike BlackRock CEO Larry Fink who previously opposed bitcoin but later changed his mind. Despite JPMorgan's involvement in bitcoin-related financial products, including serving as an authorized participant for BlackRock's spot bitcoin ETF, Dimon remains skeptical about the digital currency. Meanwhile, JPMorgan is investing in blockchain technology and tokenization, aiming to improve the current financial infrastructure. The bank plans to introduce on-chain foreign exchange capabilities by the first quarter of 2025. These developments come as Donald Trump prepares to reassume the presidency and has promised a more favorable regulatory environment for bitcoin and cryptocurrencies.
+JPMorgan Chase CEO Jamie Dimon has reiterated his negative views on Bitcoin, stating that it has "no intrinsic value" and is heavily used by sex traffickers, money launderers, and ransomware operators. This is consistent with his long-standing opposition to Bitcoin, unlike BlackRock CEO Larry Fink who previously opposed but later reversed his stance. Despite JPMorgan's own profits from Bitcoin's growing use as a financial product, Dimon remains skeptical of the cryptocurrency. The bank has, however, been investing in blockchain technology and real-world tokenization through its Kinexys platform. This move is aimed at reducing limitations in the current financial infrastructure, such as tokenizing real-world assets. Notably, Dimon's comments come just days before Donald Trump reassumes the US presidency, with promises to deliver a more friendly regulatory environment for Bitcoin and crypto.
 
 Global Investment Giant Capital Group Reaches 5% Stake in Bitcoin Holder Metaplanet
 -----------------------------------------------------------------------------------
 
 15:57 13 Jan 2025
 
-Capital Group, one of the largest investment companies in the world with over $2.3 trillion in assets under management, has become a significant shareholder in Metaplanet, a Japanese hotel industry investor that has adopted a bitcoin treasury strategy similar to MicroStrategy's. Metaplanet holds 1,762 BTC and its share price has increased by over 1,700% since adopting the strategy in April 2024. Additionally, Capital Group is also the second-largest shareholder of MicroStrategy, owning an 8% stake in the company that develops bitcoin. Other notable shareholders include Vanguard Group, Morgan Stanley, and Jane Street Group.
+Here is a summary of the article:
+
+Capital Group, a large investment company with over $2.3 trillion in assets under management, has become one of the biggest shareholders of Metaplanet, a Japanese hotel industry investor that holds Bitcoin (BTC) as part of its treasury strategy. Metaplanet's share price has surged over 1,700% since adopting this strategy in April 2024. Capital Group also owns a significant stake in MicroStrategy, another company that invests heavily in Bitcoin. This indicates that institutional investors are increasingly interested in digital currencies like Bitcoin.
 
 MicroStrategy Added 2,530 Bitcoin for $243M, Bringing Holdings to 450K BTC
 --------------------------------------------------------------------------
 
 13:12 13 Jan 2025
 
-Here is a summary of the article:
+Here's a summary of the article:
 
-MicroStrategy, a company co-founded by Michael Saylor, has purchased 2,530 more bitcoins (BTC) for $243 million, bringing its total holdings to 450,000 BTC. This is the tenth consecutive week MicroStrategy has increased its bitcoin holdings. The average price paid for this latest purchase was $95,972, with an overall average purchase price of $62,691 across all their bitcoin purchases. Saylor recommended investing in bitcoin instead of bonds during a presentation at the ICR Conference, citing the significant increase in bitcoin's value since 2020 and the decline in bond values over that period. In related news, Semler Scientific has acquired an additional 237 BTC for $23.3 million, bringing its total holdings to 2,321 BTC.
+MicroStrategy, led by CEO Michael Saylor, has purchased another 2,530 Bitcoins (BTC) for $243 million, bringing their total holdings to 450,000 BTC. This is the tenth consecutive week they've increased their Bitcoin holdings. The average price paid for these latest purchases was $95,972, with an overall average purchase price of $62,691.
+
+Saylor also made a presentation at the ICR Conference, where he recommended investing in Bitcoin over bonds, calling bonds "toxic" since 2020 when MicroStrategy started using Bitcoin as their primary treasury reserve asset. Bonds have actually decreased in value over that period, while Bitcoin has increased significantly.
+
+Meanwhile, Semler Scientific (SMLR) has acquired an additional 237 BTC for $23.3 million, bringing their total holdings to 2,321 BTC. Shares of both MicroStrategy and Semler Scientific were lower in premarket trading, with MicroStrategy down nearly 5% and SMLR down almost 7%.
 
 Bitcoin Difficulty Hits All-Time High, Adjusts Positively for 8th Consecutive Time
 ----------------------------------------------------------------------------------
@@ -71,23 +88,9 @@ Bitcoin Difficulty Hits All-Time High, Adjusts Positively for 8th Consecutive Ti
 
 Here's a summary of the article:
 
-The Bitcoin (BTC) ecosystem has set a new record for mining difficulty adjustment, reaching an all-time high of 110.45 trillion. This is the eighth consecutive positive adjustment in difficulty, which makes it harder to mine a block and receive bitcoin rewards. As a result, some publicly traded miners have had to pivot into other industries like high-performance computing (HPC) and artificial intelligence (AI). The increasing difficulty also means that miners are under more pressure, leading some to explore alternative revenue streams, such as lending out their bitcoin at single-digit yields.
+The bitcoin mining difficulty has reached an all-time high of 110.45 trillion, making it approximately 110.45 trillion times harder than when Bitcoin was first created. This is the eighth consecutive positive adjustment in difficulty, which increases pressure on miners as they struggle to mine blocks and receive rewards. The article notes that some publicly traded miners have had to pivot into other industries, such as high-performance computing and artificial intelligence, due to the challenges of mining bitcoin alone.
 
-The article notes that similar patterns of consecutive positive adjustments in mining difficulty have occurred in the past, including during the summer of 2021 when the hashrate dropped by 50% after China's mining ban. In 2018, there were 17 positive adjustments leading up to a bull market top at $20,000.
+The article also mentions that MARA Holdings has issued convertible bonds to buy more bitcoin and is optimizing revenue by lending out their bitcoin to earn a single-digit yield. The author notes that this type of record-breaking difficulty adjustment has occurred before, during the summer of 2021, shortly after the China mining ban, which led to a series of consecutive positive adjustments.
 
-While no clear trend emerges from these consecutive positive adjustments, they have historically indicated near cycle tops and bottoms in the past. The article concludes that the continued strength of the hashrate, currently at 775 EH/s, suggests that the network may reach 1 zettahash per second before the next halving, which could further impact mining difficulty and profitability.
-
-Bitcoin Under Pressure as Goldman Trims Fed Rate Cut Expectations, BofA Sees Potential Hike After Blowout Jobs Report
----------------------------------------------------------------------------------------------------------------------
-
-09:57 13 Jan 2025
-
-The article discusses how Bitcoin (BTC) started the week negatively, dropping 1.6% to below $93,000 due to major investment banks reassessing their expectations for Federal Reserve (Fed) rate cuts following a strong jobs report on Friday. The strong report led Goldman Sachs to push out its expected next interest rate cut from March to June, and other banks such as Bank of America and ING are also adjusting their forecasts. Bank of America is warning of the risk of an extended pause or even a rate hike, while ING says the market is right to see the risk of an extended pause from the Fed. The article notes that Bitcoin has surged over 50% since the first rate cut in September and is now testing its support zone near $92,000.
-
-2025 Could be a Big Year for Crypto ETFs: Laser Digital
--------------------------------------------------------
-
-08:51 13 Jan 2025
-
-According to Laser Digital, 2025 could be a significant year for cryptocurrency exchange-traded funds (ETFs). The company predicts that over 12 crypto ETFs could be launched in the US this year if approved by the Securities and Exchange Commission (SEC). Asset managers have already submitted 12 filings to the SEC. Potential products include a ProShares ETF that tracks the S&P 500's return in bitcoin, as well as combined ETFs for bitcoin and ether, and individual ETFs based on litecoin, XRP, and Solana. A bitcoin/ether ETF is likely to be approved first. The launch of spot bitcoin ETFs in January last year was successful, with Blackrock's iShares Bitcoin Trust amassing $53 billion in assets under management. The appointment of crypto-friendly Paul Atkins as SEC chairman and the resolution of ongoing lawsuits against crypto companies could lead to more approvals. Additionally, the growing ETF market is expected to see wider adoption by institutional investors in 2025, particularly with President-elect Donald Trump's return and a team of crypto-friendly regulators in place.
+The article concludes that while there is no clear trend that emerges when there are many positive consecutive adjustments in difficulty, it has historically indicated near cycle tops and bottoms. The continued strength of the hashrate (a measure of the network's processing power) is also mentioned, with some research suggesting that 1 zettahash per second can be reached before the next halving event.
 
