@@ -1,88 +1,86 @@
 
-### Last Update : 21:21 14/01/2025
+### Last Update : 22:27 14/01/2025
 
 Spot Bitcoin ETFs Exceeded Expectations in 2024, but Just Wait for 2025
 -----------------------------------------------------------------------
 
 19:12 14 Jan 2025
 
-The article discusses the performance of spot bitcoin exchange-traded funds (ETFs) in their first year on the market. According to Bloomberg Intelligence ETF analyst James Seyffart, the launch was "MASSIVE", with BlackRock's iShares Bitcoin Trust accumulating over $52.3 billion in assets in its first year. Three other spot bitcoin ETFs also had a successful launch, ranking among the top 20 U.S. ETF launches of all time. The majority of inflows came from non-professional investors, but some hedge funds and pension funds also invested modest amounts.
-
-The article suggests that the record flows may continue in 2025, with more support from financial advisors and wire houses expected. Additionally, Nate Geraci, president of the ETF Store, predicts that over 50 more crypto ETFs will be approved by the U.S. Securities and Exchange Commission (SEC) in 2025, including spot Solana and XRP funds, as well as options-based and equities-based products.
-
-Overall, the article concludes that the first year for Bitcoin ETFs was a huge success, exceeding expectations and potentially setting the stage for further growth and adoption in the coming years.
+The article discusses the remarkable performance of spot Bitcoin exchange-traded funds (ETFs) in their first year on the market. BlackRock's iShares Bitcoin Trust (IBIT) had a particularly successful launch, accumulating over $52 billion in assets, making it the most successful ETF launch in US history. Three other spot Bitcoin ETFs also made it into the top 20 US ETF launches of all time. The majority of inflows came from non-professional investors, but institutional investors are expected to increase their participation in the future. Experts predict that 2025 will be a big year for crypto ETFs, with over 50 new approvals expected under new leadership at the US Securities and Exchange Commission (SEC). This could include spot funds for Solana and XRP, as well as options-based and equities-based products.
 
 Analysis: Prediction Markets Have a Gambling Problem
 ----------------------------------------------------
 
 17:14 14 Jan 2025
 
-The article discusses the challenges faced by prediction market platforms like Polymarket and Kalshi in convincing regulators that their services are not gambling. While outside the US, authorities view prediction markets as synonymous with gambling, and have blocked users from accessing these platforms at the ISP level. In contrast, the CFTC in the US views prediction markets as a collection of event contracts, similar to weather derivatives, which are used by farmers to hedge against crop loss.
+The article discusses the challenges faced by prediction market platforms such as Polymarket and Kalshi in convincing regulators that their services are not gambling. Prediction markets allow users to buy and sell contracts based on the outcome of certain events, such as elections or sports games. While these platforms have been successful in the US, where they are regulated by the Commodities Futures Trading Commission (CFTC), they face opposition from international authorities who view them as unlicensed gambling operations.
 
-Polymarket and Kalshi have both had issues with the CFTC, with Polymarket settling its case and Kalshi winning permission to offer election-based event contracts. Kalshi has also gained an advisor in Donald Trump Jr., who is helping its case with regulators.
+The article highlights that outside of the US, countries such as Taiwan, France, and Singapore have blocked users from accessing Polymarket, viewing it as an unlicensed gambling operation. This is because prediction markets are often seen as synonymous with gambling, particularly when they involve sports events or other outcomes that are not necessarily financially significant.
 
-The article notes that sports-themed prediction market contracts are a significant portion of Polymarket's volume, with over $1.1 billion bet on the outcome of the NFL Super Bowl, Champion's League, and NBA Finals. However, the article argues that these contracts lack macro-level importance, unlike election or business decisions, and resemble online sports betting.
+However, in the US, the CFTC views prediction markets as a type of financial instrument, similar to weather derivatives used by farmers to hedge against crop loss. As a result, Polymarket and Kalshi have had to navigate regulatory issues, with Polymarket settling with the CFTC and Kalshi winning permission to offer election-based event contracts.
 
-The author suggests that prediction market platforms may face increased scrutiny from state-level gaming regulators in the US, particularly if online sports gaming giants like MGM push for regulation. The article concludes by noting that while there is room for sports-themed prediction market contracts, the smartest bet may be on a change of scenery, and the possibility of moving to jurisdictions like Canada where both political and sports betting are allowed.
+The article also notes that prediction markets can be useful tools for forecasting outcomes based on probabilities, rather than games of luck. For example, during the 2024 election, prediction markets allowed users to hedge their bets against a particular outcome, such as a significant price correction in crypto markets if Trump lost.
+
+Despite the challenges faced by these platforms, the article suggests that there may still be room for sports-themed prediction market contracts, particularly in jurisdictions where online sports betting is legal. For example, Ontario allows both political and sports betting, making it an attractive location for Polymarket to operate.
 
 Bitcoin Bull Tom Lee Sees BTC Reaching as High as $250K by Year-End
 -------------------------------------------------------------------
 
 12:07 14 Jan 2025
 
-The article discusses the recent fluctuations in Bitcoin's price, which has been oscillating between $90,000 and $100,000. Despite a brief dip below $90,000 on Monday, the cryptocurrency is now trading above $96,500, with an 8% increase. Tom Lee, head of research at Fundstrat, views this correction as normal for a volatile asset like Bitcoin. He notes that previous bull market drawdowns saw declines of up to 30%-50%, whereas this current cycle has seen relatively mild corrections of around 15%-20%. Lee identifies $70,000 as a strong support level and suggests that if this level is broken, the price could potentially drop to $50,000. However, he remains bullish on Bitcoin's prospects for 2025, predicting end-of-year targets of $200,000 to $250,000.
+The article discusses the recent market volatility in Bitcoin (BTC), which has seen a swing from fear to greed. Despite falling below $90,000 on Monday, Bitcoin recovered to be above $96,500 on Tuesday, up 8%. Tom Lee, head of research at Fundstrat, believes this correction is normal for a volatile asset and expects the price to stabilize around $70,000, which he considers a strong support level. If this level doesn't hold, Lee thinks the price could potentially drop to $50,000. However, despite the short-term correction, Lee remains bullish on Bitcoin's prospects in 2025, predicting end-of-year targets of $200,000 to $250,000. The article also mentions that Glassnode data shows relatively mild drawdowns in this current cycle compared to previous bull market corrections.
 
 One of Italy's Largest Banks Buys $1M Worth of Bitcoin: Report
 --------------------------------------------------------------
 
 11:05 14 Jan 2025
 
-Here's a summary of the article:
-
-Italy's largest bank by assets, Intesa Sanpaolo, has acquired 11 Bitcoins (BTC) worth over $1 million. This move further integrates Bitcoin into the traditional finance system. The bank, which has a market capitalization of around $73 billion, has had a proprietary trading desk for cryptocurrencies for years and handles spot trading for other digital currencies. The news comes as Bitcoin's price surged 2% on Tuesday, after dropping 5% the previous day.
+Italian bank Intesa Sanpaolo, the country's largest by assets and worth around $73 billion, has purchased 11 Bitcoin (BTC) for over $1 million. This move further integrates cryptocurrency into traditional finance. The bank has had a proprietary trading desk for cryptocurrencies since 2025 and also handles spot trading for other digital currencies.
 
 Options Tied to BlackRock's Bitcoin ETF Surge to Nearly 50% of Deribit's BTC Open Interest in Two Months
 --------------------------------------------------------------------------------------------------------
 
 09:26 14 Jan 2025
 
-Here's a summary of the article:
+The article discusses the growing demand for regulated crypto products in the US market. Specifically, it highlights the success of BlackRock's spot bitcoin exchange-traded fund (ETF), which was approved by the SEC and launched on November 19. The ETF's options contracts, known as IBIT options, have seen significant trading activity, with nearly 2.16 million open or active contracts representing a notional value of $11 billion. This is almost half the size of Deribit's eight-year-old bitcoin options market.
 
-The US Securities and Exchange Commission-approved BlackRock spot bitcoin ETF (IBIT) has launched regulated crypto products that are gaining popularity. As of November 19, there were over 2 million open or active IBIT options contracts, worth around $11 billion. This represents nearly half the size of Deribit's eight-year-old bitcoin options market, which is valued at $23 billion. The growth in demand for IBIT options is largely driven by US retail traders seeking regulated markets, and it's challenging Deribit's dominance in the crypto options market. However, Deribit's CEO notes that the activation of IBIT options has created positive effects, such as introducing new arbitrage opportunities and facilitating risk-offloading strategies for institutional participants. The majority of activity is concentrated in short-dated options, indicating a demand for lower-priced options.
+The article notes that IBIT options appeal to both institutional investors and US retail traders who prefer regulated markets. The growing demand for IBIT options is challenging Deribit's dominance in the crypto options market, but Deribit's CEO, Luuk Strijers, believes that this competition has created positive ripple effects for the industry by introducing new arbitrage opportunities and facilitating enhanced risk-offloading strategies for institutional participants.
+
+The article also notes that activity in IBIT options is concentrated in short-dated options, indicating a demand for lower premium (priced) options. Overall, the article suggests that the US market is increasingly demanding regulated crypto products, and IBIT options are meeting this demand.
 
 Is Bitcoin Bottom In? BTC's Price Action is Inverse of December Peak Above $108K
 --------------------------------------------------------------------------------
 
 06:21 14 Jan 2025
 
-The article discusses the recent price action of Bitcoin (BTC) and whether its weakness has run its course. BTC's price initially fell due to investment banks scaling back expectations for Fed rate cuts, but then surged back up to $94,000 by the end of the day, leaving behind a "long-legged Doji candle" that is often seen as a potential signal of a bottom. The article notes that this pattern has emerged at a key support level and after a notable price drop, which could indicate that the downtrend has exhausted and buyers are taking control. To confirm this, traders will be looking for a decisive move above Monday's high of $95,900. The article also mentions that BTC's demand-supply dynamics continue to lean bullishly, with corporate demand outpacing new coin supply, and price volatility may pick up again after the U.S. CPI report on January 15. Overall, the market is now focused on signs of stability to see further downside or upside.
+The article discusses the recent price movement of Bitcoin (BTC) and whether it has reached a bottom. On Monday, BTC's price initially fell due to uncertainty around Federal Reserve rate cuts following a strong jobs report, but then quickly rebounded and closed above $94,000. This "long-legged Doji candle" pattern is often seen as a sign of downtrend exhaustion and potential bottom formation. The article notes that this pattern has emerged at a key support zone that has been restricting the downside since late November. To confirm a potential bottom, traders are waiting for a decisive move above Monday's high of $95,900. In the meantime, the bears' next target is Monday's low near $89,000. The article also mentions that corporate demand for BTC has outpaced new coin supply this year, indicating bullish demand dynamics. Market participants are now focused on signs of stability to determine if there will be further downside or upside movement ahead of Wednesday's U.S. CPI report.
 
 U.S. Judges Demand SEC 'Explain Itself' for Rebuffing Requests for Crypto Rules
 -------------------------------------------------------------------------------
 
 20:45 13 Jan 2025
 
-The US Securities and Exchange Commission (SEC) was ordered by a circuit-court ruling on Monday to provide a thorough explanation for refusing to write regulations for assessing whether crypto assets are securities or not. The ruling came in response to Coinbase's formal request for the SEC to clarify its stance on crypto assets. The court partially sided with Coinbase, stating that instead of forcing the agency to make a rule, it should "explain itself" and provide clarity on its decision.
+The US Securities and Exchange Commission (SEC) was ordered by a circuit-court ruling on Monday to thoroughly explain its decision not to grant Coinbase's request for regulations on how to determine if crypto assets are securities or not. The SEC had refused to provide clarity on the matter, leading Coinbase to seek legal action. The court ruled that the SEC's actions were "arbitrary and capricious" and partially sided with Coinbase, ordering the agency to explain its decision rather than forcing it to create a new rule.
 
-The SEC had refused to write regulations, leading to an unclear environment for the industry. The court's ruling called the SEC's actions "arbitrary and capricious," echoing language from another recent case involving Grayscale's application for a spot bitcoin ETF.
+The ruling is seen as a setback for the SEC, which has been criticized for its lack of clarity on crypto regulations under the leadership of Chair Gary Gensler. Gensler will be stepping down soon, and his replacement may have an opportunity to change the agency's approach on crypto oversight.
 
-Coinbase Chief Legal Officer Paul Grewal welcomed the court's decision, stating that his company will review the outcome and determine next steps. The SEC has until now been led by Chair Gary Gensler, who is stepping down soon. This ruling could provide an opportunity for the new leadership to change the agency's course on crypto oversight.
+Coinbase's Chief Legal Officer, Paul Grewal, welcomed the ruling and thanked the court for their careful consideration. The SEC has until now been criticized for its lack of transparency and clarity on crypto regulations, with Judge Stephanos Bibas warning that the agency should not provide a "poor explanation" in response to this ruling.
 
-The ruling also criticized the SEC's performance in this case, stating that instead of making a rule, it has sidestepped the process and pursued a de facto ban through enforcement.
+The ruling may open the door for new leadership at the SEC to review and potentially change its approach on crypto oversight.
 
 U.S. Banking Should Ease Path for Crypto, Republican Taking Reins at FDIC Suggests
 ----------------------------------------------------------------------------------
 
 18:06 13 Jan 2025
 
-The article discusses Travis Hill, the senior Republican at the Federal Deposit Insurance Corporation (FDIC), who is set to take over as temporary chairman after current Chairman Martin Gruenberg steps down on January 19. Before taking over, Hill outlined his thoughts on pro-crypto policy and called for the FDIC to issue new guidance on digital assets. He criticized the agency's current approach of issuing individual letters to banks regarding their cryptocurrency dealings, which he believes has stifled innovation and led to a perception that the FDIC is closed to businesses related to blockchain technology. Hill suggested that instead of a piecemeal approach, the FDIC should clearly outline what activities are legally permissible and provide timely regulatory approvals. He also criticized the agency's role in pressuring banks to shed crypto clients, stating that efforts to debank law-abiding customers are unacceptable.
+The article discusses Travis Hill, the Vice Chairman of the Federal Deposit Insurance Corp (FDIC), who is expected to take over as Chairman temporarily or permanently once President-elect Donald Trump takes office. Before his potential takeover, Hill has outlined some pro-crypto policy thoughts. He believes that the FDIC's current approach to regulating digital assets has stifled innovation and contributed to a negative public perception of the agency. Hill suggests that the agency should issue new guidance for digital assets and clearly describe what activities are legally permissible, in order to promote safety and soundness standards. He also criticizes the FDIC's role in pressuring banks to shed crypto clients, stating that efforts to debank law-abiding customers are unacceptable. The article notes that current Chairman Martin Gruenberg will step down on January 19, allowing Hill to take over as interim Chairman.
 
 Jamie Dimon Still Sees ‘No Value’ in Bitcoin
 --------------------------------------------
 
 17:47 13 Jan 2025
 
-JPMorgan Chase CEO Jamie Dimon reiterated his negative views on Bitcoin, saying it has "no intrinsic value" and is heavily used by criminals such as sex traffickers, money launderers, and ransomware hackers. This stance is consistent with his long-standing opposition to Bitcoin, despite the bank's profits from its use as a financial product. JPMorgan has even rebranded its blockchain platform to focus on real-world tokenization and plans to introduce on-chain foreign exchange capabilities in 2025. Dimon's comments come ahead of Donald Trump's expected more favorable regulatory environment for Bitcoin and cryptocurrencies, which may contrast with the bank's continued skepticism towards Bitcoin.
+JPMorgan Chase CEO Jamie Dimon has reiterated his negative views on Bitcoin, stating that it has "no intrinsic value" and is heavily used by sex traffickers, money launderers, and ransomware operators. This is consistent with his previous opinions, unlike BlackRock CEO Larry Fink who had a change of heart. Despite this, JPMorgan Chase has profited from the growing use of Bitcoin as a financial product and even serves as an authorized participant for BlackRock's spot bitcoin ETF. The bank has also rebranded its blockchain platform to Kinexys and plans to introduce on-chain foreign exchange capabilities. Dimon's comments come ahead of Donald Trump's return to the presidency, which is expected to bring a more friendly regulatory environment for Bitcoin and cryptocurrencies in general.
 
 Global Investment Giant Capital Group Reaches 5% Stake in Bitcoin Holder Metaplanet
 -----------------------------------------------------------------------------------
@@ -91,5 +89,5 @@ Global Investment Giant Capital Group Reaches 5% Stake in Bitcoin Holder Metapla
 
 Here is a summary of the article:
 
-Capital Group, a large investment company with over $2.3 trillion in assets under management, has become one of the biggest shareholders in Metaplanet, a Japanese hotel industry investor that holds bitcoin (BTC) in its treasury. Metaplanet's share price has increased by over 1,700% since it adopted a bitcoin treasury strategy in April 2024. Capital Group also owns a significant stake in MicroStrategy, a Bitcoin development company, with over 18 million shares, or around 8% of the company.
+Capital Group, one of the largest investment companies in the world with over $2.3 trillion in assets under management, has become one of the biggest shareholders of Metaplanet, a Japanese hotel industry investor that holds Bitcoin as part of its treasury strategy. Metaplanet's share price has increased by over 1,700% since it adopted this strategy in April 2024, with its current holdings of 1,762 BTC making it the 15th largest publicly traded company to hold Bitcoin. Additionally, Capital Group is also a significant shareholder in MicroStrategy, another company that holds Bitcoin as part of its treasury strategy, owning over 8% of the company's shares.
 
